@@ -1,10 +1,10 @@
 # Supplementary information for 
-### *Engineering Machine Learning features to predict adsorption of carbon dioxide and nitrogen in metal-organic frameworks*
+### *Designing Metal-Organic Frameworks for Carbon Capture Using Multi-Scale Approaches with Machine Learning and Multi-Objective Optimization*
 
 *Zijun Deng, Lev Sarkisov*
 
 
-This repository contains the scripts for feature calculation and the machine learning (ML) models to the article *Engineering Machine Learning features to predict adsorption of carbon dioxide and nitrogen in metal-organic frameworks* by Zijun Deng and Lev Sarkisov. 
+This repository contains the scripts to the article *Designing Metal-Organic Frameworks for Carbon Capture Using Multi-Scale Approaches with Machine Learning and Multi-Objective Optimization* by Zijun Deng and Lev Sarkisov. 
 
 
 Note:
