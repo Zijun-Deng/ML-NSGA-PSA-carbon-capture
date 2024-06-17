@@ -1,0 +1,764 @@
+
+õz
+	/host:CPUõŒS
+
+tf_ComputeŒS”S
+
+tf_Compute”SˆS
+
+tf_ComputeˆS
+ÀÀÄ+
+
+tf_ComputeÄ+"$õÀconvert_to_tensorH í–´PàÏ¿2"õÀtf.constantHÀŠ¾ÃP Ò¿"+õÀTFE_Py_FastPathExecute_CHà¿ñõPÀªÌX"FõÀEagerExecuteHà‡÷•P Ù›6Z
+eager_opVarHandleOpZ
+is_func0"1õÀEagerLocalExecute: VarHandleOpHà¸´˜PÀ€Ì3"#õÀEagerCopyToDeviceH ¶ÿ¢PÀÏ$"/õÀValidateInputTypeAndPlacementH€¼±ªP€µ"%õÀEagerKernelExecuteH ‡Ê«P€“í"+õÀKernelAndDeviceFunc::RunHàõ·¬PàîÓ"+õÀTFE_Py_FastPathExecute_CHà‚¬ôP€ˆ ,"KõÀEagerExecuteHà¬÷€P ø¯Z
+is_func0Z
+eager_opAssignVariableOp"6õÀ#EagerLocalExecute: AssignVariableOpHàµñPÀÇ£"$õÀEagerCopyToDeviceH ˜Î‰P€Ù€"/õÀValidateInputTypeAndPlacementHàÎŒ’P€Ôa"%õÀEagerKernelExecuteHÀ´±“PÀÑ¬"+õÀKernelAndDeviceFunc::RunHÀÓú“P »¬
+"(õÀTFE_DeleteTensorHandleH€•»¨P€µ"$õÀconvert_to_tensorH€¤ì“P Ùæ"õÀtf.constantHàÖ€ P †”
+"+õÀTFE_Py_FastPathExecute_CH€°ç½Pà„Ø2"FõÀEagerExecuteH€äÎP  óZ
+eager_opVarHandleOpZ
+is_func0"1õÀEagerLocalExecute: VarHandleOpH€¦ŞÏPÀïæ"#õÀEagerCopyToDeviceH ‘„×P€µ"/õÀValidateInputTypeAndPlacementHÀ–ÔÛPà§"%õÀEagerKernelExecuteH€Ğ©ÜPÀÛê"+õÀKernelAndDeviceFunc::RunHàáìÜP §"+õÀTFE_Py_FastPathExecute_CHÀ±¬P€şá%"KõÀEagerExecuteHà‹¢šP €æZ
+eager_opAssignVariableOpZ
+is_func0"6õÀ#EagerLocalExecute: AssignVariableOpHÀ‡–›PàÜß"$õÀEagerCopyToDeviceHàÊø PàáÉ"/õÀValidateInputTypeAndPlacementH ­Õ¨P ág"%õÀEagerKernelExecuteHà…ô©P€İ	"+õÀKernelAndDeviceFunc::RunHà¤½ªPàøÜ"(õÀTFE_DeleteTensorHandleH€ÔØ»Pà§"$õÀconvert_to_tensorHÀî¸P ø¯"õÀtf.constantH€”Ç©PàŠÑ
+"+õÀTFE_Py_FastPathExecute_CHÀääÇPà÷‚4"FõÀEagerExecuteHÀç°ØP ıÎ!Z
+eager_opVarHandleOpZ
+is_func0"1õÀEagerLocalExecute: VarHandleOpHÀÚÛÙPÀâ‘ "#õÀEagerCopyToDeviceHàéàPà§"/õÀValidateInputTypeAndPlacementHà½ËåPÀš"%õÀEagerKernelExecuteHàÜ”æPàÛ›"+õÀKernelAndDeviceFunc::RunH áÑæP€¸ä"+õÀTFE_Py_FastPathExecute_CHà»â£PÀõÉ'"KõÀEagerExecuteH€€‰¯PàØ„Z
+eager_opAssignVariableOpZ
+is_func0"6õÀ#EagerLocalExecute: AssignVariableOpHàûü¯P€¨ø"$õÀEagerCopyToDeviceHÀø´¶PÀ‰Ü"/õÀValidateInputTypeAndPlacementHÀßÎ¾PàÆ["%õÀEagerKernelExecuteHàªç¿Pà¶ï	"+õÀKernelAndDeviceFunc::RunH€×¶ÀPà­õ"(õÀTFE_DeleteTensorHandleHÀç¹ÒPà§"õÀtf.constantH Íğ›}Pà·H"FõÀEagerExecuteH ³û¶}P ßÉ&Z
+is_func0Z
+eager_op_EagerConst"1õÀEagerLocalExecute: _EagerConstHàşÄ¹}PàŞç#"$õÀEagerCopyToDeviceHà§ÌÀ}P Ô’"/õÀValidateInputTypeAndPlacementHà—àÉ}PÀ¹U"%õÀEagerKernelExecuteH€‚ÂË}P ä³"+õÀKernelAndDeviceFunc::RunH€‹¼Ì}P §"(õÀTFE_DeleteTensorHandleH€Şà}PàÆ["õÀtf.constantHÀ¸µì}P Õ‹ "FõÀEagerExecuteH€ŞÃø}PÀè¿Z
+is_func0Z
+eager_op_EagerConst"1õÀEagerLocalExecute: _EagerConstH€ıŒù}Pà¡ä"#õÀEagerCopyToDeviceHÀıîû}PÀîm"/õÀValidateInputTypeAndPlacementH€¦”€~PÀÏ$"%õÀEagerKernelExecuteH Òã€~P Šï"+õÀKernelAndDeviceFunc::RunH ¼”~PÀÙâ"(õÀTFE_DeleteTensorHandleHÀ„–Š~PàÜ*",õÀTFE_Py_FastPathExecute_CHÀ™Öœ~Pàïí‰"@õÀEagerExecuteHàŠß¬~Pà¶ÅóZ
+is_func0Z
+eager_opFill"+õÀEagerLocalExecute: FillH€·®­~PÀë¬ò"$õÀEagerCopyToDeviceHàØ’½~P Ÿú"0õÀValidateInputTypeAndPlacementH ‡ıÄƒP ág"'õÀEagerKernelExecuteH ™ñÆƒP –¿×"-õÀKernelAndDeviceFunc::RunH€ÿ•ÈƒPà–ìÁ")õÀTFE_DeleteTensorHandleHÀÃáÃŠPàÜ*"*õÀTFE_DeleteTensorHandleH ¬ÒÕŠP Ô’"QõÀcallH€Ê‹P€ë„Š Z
+tracing_count2Z!
+tf_function_calltraced-nonXla"0õÀtf.function-graph_buildingHÀ… “PØ÷Ÿ…"dõÀcalculate_mof_embeddingHà³ôı¿PğéµÈZ!
+tf_function_calltraced-nonXlaZ
+tracing_count2"0õÀtf.function-graph_buildingH Ø¤ÚÂP ‰Š±"&õÀconvert_to_tensorH Ú˜¨Œ
+Pà¨’"%õÀconvert_to_tensorH€× µ
+P ¨ô"%õÀconvert_to_tensorH€ µÂ
+P€ü¤"&õÀconvert_to_tensorHàİËÚ
+Pà™·"%õÀconvert_to_tensorHÀµ§Ş’
+P ¨ô"%õÀconvert_to_tensorH ÷À·”
+Pà—ÅR"õÀtf.constantH âêÕ”
+Pàå2"GõÀEagerExecuteH Ïçæ”
+P ïµZ
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstHàûçè”
+P€›£"%õÀEagerCopyToDeviceHÀºî”
+PÀ·"0õÀValidateInputTypeAndPlacementHàœ¹ô”
+P ÷6"&õÀEagerKernelExecuteH€èÑõ”
+PÀ·‚",õÀKernelAndDeviceFunc::RunHàãÅö”
+P€Àš")õÀTFE_DeleteTensorHandleHÀ±È…•
+P ¬O"%õÀconvert_to_tensorHà»·•
+P ¥’#"õÀtf.constantHÀ¸ï“•
+Pàÿƒ"GõÀEagerExecuteHà¬œ•
+PÀ¥Z
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstHà–Àœ•
+Pà“Ë"$õÀEagerCopyToDeviceHà¨´•
+PÀ¹U"0õÀValidateInputTypeAndPlacementH€Ñ¨¡•
+PàÜ*"&õÀEagerKernelExecuteHàâë¡•
+P€ ",õÀKernelAndDeviceFunc::RunH€¥Š¢•
+PÀ¨¥")õÀTFE_DeleteTensorHandleH€™ù¨•
+PÀÏ$"%õÀconvert_to_tensorHÀÊ²•
+Pà£ì"õÀtf.constantH€©š¸•
+P€¸ä"GõÀEagerExecuteH€É§¾•
+PàÃÄZ
+eager_op_EagerConstZ
+is_func0"2õÀEagerLocalExecute: _EagerConstH€³Ø¾•
+P ¿‡"$õÀEagerCopyToDeviceH€Û›À•
+P€ŸI"0õÀValidateInputTypeAndPlacementH ™ßÂ•
+Pà§"&õÀEagerKernelExecuteH ƒÃ•
+P Ç½",õÀKernelAndDeviceFunc::RunHÀÅ®Ã•
+Pàè")õÀTFE_DeleteTensorHandleH€¹»Ç•
+P€µ",õÀTFE_Py_FastPathExecute_CHÀ˜×•
+PÀ ï"%õÀconvert_to_tensorHÀ˜ë‡–
+Pà±…"õÀtf.constantHà•…‘–
+P Ê‰"GõÀEagerExecuteH Ù˜˜–
+PÀıÊ
+Z
+eager_op_EagerConstZ
+is_func0"2õÀEagerLocalExecute: _EagerConstHÀĞÏ˜–
+Pàë‡
+"$õÀEagerCopyToDeviceHàïÉš–
+PàÆ["0õÀValidateInputTypeAndPlacementH€˜¾–
+Pà§"&õÀEagerKernelExecuteH õ–
+P …Ğ",õÀKernelAndDeviceFunc::RunHàŞ™–
+Pà–â")õÀTFE_DeleteTensorHandleH€¸Ë£–
+P Â"-õÀTFE_Py_ExecuteCancelableHà¤—³–
+P€äí„"YõÀEagerExecuteHÀ¥ª·–
+PÀ¿£şZ(
+eager_opStatelessRandomGetKeyCounterZ
+is_func0"DõÀ/EagerLocalExecute: StatelessRandomGetKeyCounterH ‚Õ·–
+PÀ Úı"$õÀEagerCopyToDeviceHà¥½–
+P€Ôa"0õÀValidateInputTypeAndPlacementH ¸ š
+PàÜ*"'õÀEagerKernelExecuteHÀÎ š
+P€¨¿¦"-õÀKernelAndDeviceFunc::RunH àãš
+Pà¥†š")õÀTFE_DeleteTensorHandleHà…î¿œ
+P€Ôa"-õÀTFE_Py_FastPathExecute_CH õŸÆœ
+P€Ä¼Ë"GõÀEagerExecuteH€‚ùÛœ
+PàãÑZ
+eager_op_EagerConstZ
+is_func0"2õÀEagerLocalExecute: _EagerConstH ãàÜœ
+PàÚ×"$õÀEagerCopyToDeviceH€ñÈßœ
+PÀîm"0õÀValidateInputTypeAndPlacementH€•±ãœ
+P€µ"&õÀEagerKernelExecuteH€´úãœ
+P€Õ¥",õÀKernelAndDeviceFunc::RunH «±äœ
+PÀ±Ÿ")õÀTFE_DeleteTensorHandleH€Ç²ëœ
+P Â")õÀTFE_DeleteTensorHandleHÀŸÑìœ
+PÀš"UõÀEagerExecuteHÀ¨Ëíœ
+P ÅÇ¡Z$
+eager_opStatelessRandomUniformV2Z
+is_func0"@õÀ+EagerLocalExecute: StatelessRandomUniformV2H€øïíœ
+PÀ³„¡"%õÀEagerCopyToDeviceH œ‰óœ
+Pàš½"0õÀValidateInputTypeAndPlacementHÀ¾‰½ 
+PàÜ*"'õÀEagerKernelExecuteHàŸñ½ 
+Pàì¹Ğ"-õÀKernelAndDeviceFunc::RunHÀ±´¾ 
+PÀ•Û½"-õÀTFE_Py_FastPathExecute_CH ÕÌ¬¸
+P Á×ã"@õÀEagerExecuteH «¶¸¸
+PàŸ¤ÕZ
+eager_opSubZ
+is_func0"+õÀEagerLocalExecute: SubH€ÜÂ¹¸
+Pà¬ùÓ"%õÀEagerCopyToDeviceH€—¾Â¸
+PÀ÷ç"0õÀValidateInputTypeAndPlacementH ¯–Õ»
+PÀ„="'õÀEagerKernelExecuteH€à¢Ö»
+P€—Ö¶"-õÀKernelAndDeviceFunc::RunH ŒòÖ»
+P€¢£ª"-õÀTFE_Py_FastPathExecute_CHÀß§À
+PÀéİÚ	"@õÀEagerExecuteHÀıò°À
+P ÈÛÍ	Z
+is_func0Z
+eager_opMul"+õÀEagerLocalExecute: MulHàŞÚ±À
+PÀ—ÏÌ	"%õÀEagerCopyToDeviceHàÛÃ¹À
+Pàš½"0õÀValidateInputTypeAndPlacementHÀÛ­¦Ã
+PàÜ*"'õÀEagerKernelExecuteHà¼•§Ã
+Pàò¸Ö"-õÀKernelAndDeviceFunc::RunH öê§Ã
+P€ÍùÈ"*õÀTFE_DeleteTensorHandleH€—ÊˆÊ
+Pà°Œ"%õÀconvert_to_tensorHà€ÿŸÊ
+Pàİî"%õÀconvert_to_tensorHà ¯Ê
+PàØÏ"-õÀTFE_Py_FastPathExecute_CHÀÔä·Ê
+P€£ìÎ"BõÀEagerExecuteH ¦ÂÄÊ
+P€æèºZ
+is_func0Z
+eager_opAddV2"-õÀEagerLocalExecute: AddV2HàşàÅÊ
+PÀ£™¹"%õÀEagerCopyToDeviceH ÔèÎÊ
+PÀ¬€"0õÀValidateInputTypeAndPlacementHÀ‡¯äÍ
+P€ê0"'õÀEagerKernelExecuteHÀ©åÍ
+Pà½ï˜"-õÀKernelAndDeviceFunc::RunH ×„æÍ
+P€²Úˆ"*õÀTFE_DeleteTensorHandleHÀø”ŒÒ
+P€ƒ¶A")õÀTFE_DeleteTensorHandleHà…ºÕÒ
+Pàûs")õÀTFE_DeleteTensorHandleH ŞØÖÒ
+PÀš")õÀTFE_DeleteTensorHandleHÀ ÷ÖÒ
+P ")õÀTFE_DeleteTensorHandleHà—®×Ò
+PÀ„=")õÀTFE_DeleteTensorHandleH€Äı×Ò
+P ÷6"*õÀTFE_DeleteTensorHandleH ğÌØÒ
+P ıƒ:"%õÀconvert_to_tensorHÀøÒÓ
+PÀÉö"-õÀTFE_Py_FastPathExecute_CH€·±ÓÓ
+P °™Î"HõÀEagerExecuteHà­»éÓ
+P€¶Z
+is_func0Z
+eager_opVarHandleOp"3õÀEagerLocalExecute: VarHandleOpHÀ“àêÓ
+PÀÿ×´"$õÀEagerCopyToDeviceHÀí¤ôÓ
+P Â"0õÀValidateInputTypeAndPlacementH ‰ÁéÖ
+Pà§"&õÀEagerKernelExecuteHÀê¨êÖ
+P€Ùê4",õÀKernelAndDeviceFunc::RunHÀ‰òêÖ
+P€´¾+"-õÀTFE_Py_FastPathExecute_CHàÈ‚í×
+PàêÈ£"MõÀEagerExecuteH€°Íö×
+P€«ß˜Z
+is_func0Z
+eager_opAssignVariableOp"8õÀ#EagerLocalExecute: AssignVariableOpH ‘µ÷×
+PÀ‡Ù—"%õÀEagerCopyToDeviceH€›Âü×
+PÀá˜"0õÀValidateInputTypeAndPlacementHÀàÃäÚ
+Pà‘C"&õÀEagerKernelExecuteH€„ÊåÚ
+P ÅŸ)",õÀKernelAndDeviceFunc::RunH€£“æÚ
+P€Šó")õÀTFE_DeleteTensorHandleHÀ„–™Û
+PÀ„="%õÀconvert_to_tensorH€×‚Ïİ
+PàáÉ"%õÀconvert_to_tensorHÀî€ÑŞ
+PÀËÉ"%õÀconvert_to_tensorHàùÛ¡à
+PàØÏ"%õÀconvert_to_tensorHàŸœ·ã
+P ²²	"%õÀconvert_to_tensorH ÏèÉã
+P€’ô"%õÀconvert_to_tensorH ñ®˜æ
+Pàè"%õÀconvert_to_tensorH Ñèè
+PÀ€â"%õÀconvert_to_tensorHà¡¡«ë
+P óÛ"&õÀconvert_to_tensorHàØÁ¶ë
+Pà”˜‹"%õÀconvert_to_tensorH€°†Ÿî
+PàØÏ"%õÀconvert_to_tensorHàÎûùï
+PÀËÉ"%õÀconvert_to_tensorHÀ’Òöñ
+PàØÏ"&õÀconvert_to_tensorH€»¬“ò
+PÀº×˜"%õÀconvert_to_tensorHàå³«ù
+PàºÊ"%õÀconvert_to_tensorHÀçºù
+Pà„î"%õÀconvert_to_tensorHÀ„Ãù
+P ºè"%õÀconvert_to_tensorH€•€úû
+P İŒ"%õÀconvert_to_tensorH Á÷½ı
+Pàœ¯="õÀtf.constantH€ÃÎÇı
+PÀî×1"GõÀEagerExecuteH ÜšÙı
+PàË¯Z
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstH îÛı
+P€’©"%õÀEagerCopyToDeviceHÀİàı
+P Ë˜"0õÀValidateInputTypeAndPlacementHÀ²µæı
+Pà‘C"&õÀEagerKernelExecuteH ˜Úçı
+P€ş¬",õÀKernelAndDeviceFunc::RunH€ßµèı
+PàÈã")õÀTFE_DeleteTensorHandleH ¨ûöı
+Pà‘C"%õÀconvert_to_tensorHÀ“¡şı
+PàÖü"õÀtf.constantH Ù„ş
+PàÔô"%õÀconvert_to_tensorH€ºóş
+P€‹‚"õÀtf.constantHÀÌÉ”ş
+PÀ‰Ü",õÀTFE_Py_FastPathExecute_CH€á§¤ş
+P ­“"%õÀconvert_to_tensorH „²¼ş
+P€Šó"õÀtf.constantH Ì‚Äş
+P€åÆ"GõÀEagerExecuteHà®ßËş
+PàŞ²Z
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstH ³œÌş
+Pà¿é
+"$õÀEagerCopyToDeviceH€í¢Îş
+PÀ¹U"0õÀValidateInputTypeAndPlacementHÀ×µÑş
+Pà§"&õÀEagerKernelExecuteHàÎìÑş
+P€âú",õÀKernelAndDeviceFunc::RunH ‘Òş
+Pà€“")õÀTFE_DeleteTensorHandleHÀ–ŒØş
+P Â",õÀTFE_Py_ExecuteCancelableH ª×ãş
+P ƒı"XõÀEagerExecuteH€Á¹çş
+P€èİZ(
+eager_opStatelessRandomGetKeyCounterZ
+is_func0"CõÀ/EagerLocalExecute: StatelessRandomGetKeyCounterHàäçş
+Pàğ¦"$õÀEagerCopyToDeviceHÀ«Ìêş
+P ág"0õÀValidateInputTypeAndPlacementHÀÆºíş
+P€µ"&õÀEagerKernelExecuteHÀ°ëíş
+P ¶",õÀKernelAndDeviceFunc::RunHàò‰îş
+P ­“")õÀTFE_DeleteTensorHandleHÀç‹ùş
+P€ŸI"-õÀTFE_Py_FastPathExecute_CH€¦€ış
+PÀ÷¼§")õÀTFE_DeleteTensorHandleHÀ½õ„ÿ
+P "UõÀEagerExecuteHÀÆï…ÿ
+P€ÁœZ
+is_func0Z$
+eager_opStatelessRandomUniformV2"@õÀ+EagerLocalExecute: StatelessRandomUniformV2H £š†ÿ
+P€ñ÷›"%õÀEagerCopyToDeviceH€…ä‰ÿ
+PàÏÕ"0õÀValidateInputTypeAndPlacementH ëêÿ
+P€µ"'õÀEagerKernelExecuteHÀâ¡ÿ
+PÀº¹“"-õÀKernelAndDeviceFunc::RunH€²Æÿ
+P ï ’",õÀTFE_Py_FastPathExecute_CH ı³µ…P üŠ"?õÀEagerExecuteHÀèÙ¼…P€½ƒZ
+is_func0Z
+eager_opSub"*õÀEagerLocalExecute: SubHÀ¼»½…P Á"%õÀEagerCopyToDeviceH€£óÂ…Pàš½"0õÀValidateInputTypeAndPlacementH ¨ÃÇ…P Â"&õÀEagerKernelExecuteHÀÔ’È…PÀ¦",õÀKernelAndDeviceFunc::RunH€ÙÏÈ…P ë¥",õÀTFE_Py_FastPathExecute_CH€ó®Ş…P ½ˆw"?õÀEagerExecuteH€Ì¯â…PÀè“rZ
+is_func0Z
+eager_opMul"*õÀEagerLocalExecute: MulH€¶àâ…P€äÖq"$õÀEagerCopyToDeviceHàÌÂæ…Pàûs"0õÀValidateInputTypeAndPlacementHÀÃé…Pà§"&õÀEagerKernelExecuteHÀùóé…PÀëªj",õÀKernelAndDeviceFunc::RunHÀ®Œê…PÀ—Éi")õÀTFE_DeleteTensorHandleHÀš™×†PàÆ["%õÀconvert_to_tensorH€Ä‚á†P ±î"%õÀconvert_to_tensorH€é®ê†Pàè",õÀTFE_Py_FastPathExecute_CHà„°ñ†P ’®}"AõÀEagerExecuteH —†ö†P §¹wZ
+is_func0Z
+eager_opAddV2",õÀEagerLocalExecute: AddV2H ·ö†PÀ•öv"%õÀEagerCopyToDeviceH€Í±ú†P µÉ"0õÀValidateInputTypeAndPlacementH èĞş†Pà§"&õÀEagerKernelExecuteHàìÿ†P€õ†n",õÀKernelAndDeviceFunc::RunH ¼²ÿ†P ù’m")õÀTFE_DeleteTensorHandleH€ô¹ğ‡PÀîm")õÀTFE_DeleteTensorHandleH ÚÀô‡PàÜ*")õÀTFE_DeleteTensorHandleHà“–õ‡P ")õÀTFE_DeleteTensorHandleH€Ö´õ‡P ")õÀTFE_DeleteTensorHandleHÀ¥Ùõ‡PÀÏ$")õÀTFE_DeleteTensorHandleHàœö‡P Â")õÀTFE_DeleteTensorHandleHà†Áö‡P ÷6"%õÀconvert_to_tensorHÀñ„û‡P ¶"-õÀTFE_Py_FastPathExecute_CHà‘øšˆP ÎÓá"HõÀEagerExecuteH€¼ô¨ˆP êĞÑZ
+is_func0Z
+eager_opVarHandleOp"3õÀEagerLocalExecute: VarHandleOpH èÃ©ˆP€‰éĞ"$õÀEagerCopyToDeviceH€£±ˆPÀš"0õÀValidateInputTypeAndPlacementHÀ®ÂÆ‹Pà§"&õÀEagerKernelExecuteHàªÇ‹PÀ÷Ñ2",õÀKernelAndDeviceFunc::RunH ”çÇ‹P€Åî'"-õÀTFE_Py_FastPathExecute_CH ²õ¼ŒP€ğ˜¨"MõÀEagerExecuteHà‡ıÅŒP€ÂòZ
+eager_opAssignVariableOpZ
+is_func0"8õÀ#EagerLocalExecute: AssignVariableOpHÀÎØÆŒPà«òœ"%õÀEagerCopyToDeviceHÀÆ¢ËŒP€ÇŒ"0õÀValidateInputTypeAndPlacementH€–â¹PÀ„="&õÀEagerKernelExecuteHà‘ÖºP€™Ğ(",õÀKernelAndDeviceFunc::RunHà°Ÿ»P —ù")õÀTFE_DeleteTensorHandleH ÔíP ¬O"%õÀconvert_to_tensorHà‚¡ôP€›î"%õÀconvert_to_tensorHà„ıà‘PÀËÉ"%õÀconvert_to_tensorH€ˆí“P€ü¤"%õÀconvert_to_tensorHÀ§ß­•Pàïâ"%õÀconvert_to_tensorH€Û†¾•Pà„î"%õÀconvert_to_tensorHÀÆ¤Ó—Pà£·"%õÀconvert_to_tensorHÀÔš³™PÀËÉ"%õÀconvert_to_tensorHÀ×ÙîšP€±½"%õÀconvert_to_tensorH ¤ÖŠœP€ü¤"%õÀconvert_to_tensorHÀã…ÖPÀËÉ"%õÀconvert_to_tensorH€³ø’¨P Ğ·"%õÀconvert_to_tensorHÀœªPÀàóE"õÀtf.constantHàà´¨ªPàïÌ8"GõÀEagerExecuteH ¢õ¼ªPà›¶Z
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstHÀö‡¿ªPàŸ‘"%õÀEagerCopyToDeviceHÀ€ÆÅªPÀ·"0õÀValidateInputTypeAndPlacementH€Ú¨ÌªPÀ„="&õÀEagerKernelExecuteH€ÍÓÍªP€‡§",õÀKernelAndDeviceFunc::RunHà“¯ÎªP ·Ñ")õÀTFE_DeleteTensorHandleH ’¾ŞªP€ŸI"%õÀconvert_to_tensorH€ÍˆæªPÀ©""õÀtf.constantH äÌìªP€Ï÷"GõÀEagerExecuteHà°ÚôªPà©šZ
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstHÀ…õªPÀ²ã
+"$õÀEagerCopyToDeviceHà¬ÿöªPÀîm"0õÀValidateInputTypeAndPlacementH€ŠŒúªPà§"&õÀEagerKernelExecuteH€ô¼úªP ¤™",õÀKernelAndDeviceFunc::RunH ¶ÛúªPÀ¨¥")õÀTFE_DeleteTensorHandleH ¡Ğ€«P Â"%õÀconvert_to_tensorHà•¡Š«PÀµ¯"õÀtf.constantH üØ«Pàş¿"GõÀEagerExecuteH œæ•«P€ğ“	Z
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstH †—–«P ŞĞ"$õÀEagerCopyToDeviceHàÈæ—«P€ŸI"0õÀValidateInputTypeAndPlacementH€‡ªš«Pà§"&õÀEagerKernelExecuteHàãÔš«P€Ù€",õÀKernelAndDeviceFunc::RunH€¦óš«PÀê’")õÀTFE_DeleteTensorHandleHÀ¸ÉŸ«P Â",õÀTFE_Py_FastPathExecute_CHà¶§®«P â«"%õÀconvert_to_tensorHà¿ÖÇ«PÀİò"õÀtf.constantH ö”Ğ«Pà¼Ò"GõÀEagerExecuteH êƒ×«PÀôĞ	Z
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstHàîÀ×«P È	"$õÀEagerCopyToDeviceH€Ù¢Ù«P€ŸI"0õÀValidateInputTypeAndPlacementHà±òÛ«Pà§"&õÀEagerKernelExecuteHà›£Ü«PÀóŒ",õÀKernelAndDeviceFunc::RunH€ŞÁÜ«PÀŸ«")õÀTFE_DeleteTensorHandleH ˜ªá«P Â",õÀTFE_Py_ExecuteCancelableHÀû™í«P€•À"XõÀEagerExecuteH ’üğ«P€‡§Z
+is_func0Z(
+eager_opStatelessRandomGetKeyCounter"CõÀ/EagerLocalExecute: StatelessRandomGetKeyCounterH€ï¦ñ«Pàğ"$õÀEagerCopyToDeviceH —›ô«P€Ôa"0õÀValidateInputTypeAndPlacementH€¥ƒ÷«Pà§"&õÀEagerKernelExecuteHà®÷«P ÕÖ",õÀKernelAndDeviceFunc::RunH€ÄÌ÷«PÀ¤Ê")õÀTFE_DeleteTensorHandleHàöàƒ¬P€ŸI".õÀTFE_Py_FastPathExecute_CH€ó¶‡¬PÀ¾îıÒ")õÀTFE_DeleteTensorHandleH ²¾¬P "VõÀEagerExecuteH€®²¬P€ÉÙîÒZ
+is_func0Z$
+eager_opStatelessRandomUniformV2"AõÀ+EagerLocalExecute: StatelessRandomUniformV2HàŠİ¬PàçñíÒ"%õÀEagerCopyToDeviceH ß ”¬PÀÂÏ"0õÀValidateInputTypeAndPlacementH ƒ‰˜¬P€µ"(õÀEagerKernelExecuteHÀú¿˜¬PÀÔˆåÒ".õÀKernelAndDeviceFunc::RunHà¼Ş˜¬P€ŸâÒ",õÀTFE_Py_FastPathExecute_CHÀ¼Ü©ÿP€›Ø3"?õÀEagerExecuteH ©¨¹ÿPÀ²˜#Z
+eager_opSubZ
+is_func0"*õÀEagerLocalExecute: SubH€®–»ÿP “!"%õÀEagerCopyToDeviceH€é‘ÄÿP ‰«"0õÀValidateInputTypeAndPlacementH ¾èËÿPÀ„="&õÀEagerKernelExecuteH€ïôÌÿP §",õÀKernelAndDeviceFunc::RunH ĞÜÍÿP ÀË"-õÀTFE_Py_FastPathExecute_CH ˜âíÿPÀòŞ‚"@õÀEagerExecuteH ñâñÿP ‹”ùZ
+is_func0Z
+eager_opMul"+õÀEagerLocalExecute: MulH€ÎòÿPàœ¦ø"%õÀEagerCopyToDeviceHÀŒ‚öÿP€¾’"0õÀValidateInputTypeAndPlacementHÀ‘¡ùÿP€µ"'õÀEagerKernelExecuteHÀûÑùÿP ±Ïï"-õÀKernelAndDeviceFunc::RunH€ËöùÿPÀ„ì"*õÀTFE_DeleteTensorHandleHàä…ú—Pàš½"%õÀconvert_to_tensorHàûÍ—˜Pà¨Ö"%õÀconvert_to_tensorHàÖÖ¦˜P€æÕ"-õÀTFE_Py_FastPathExecute_CH ÷Å¯˜PÀïİÙ"BõÀEagerExecuteH ñ—¿˜P ¿şÂZ
+eager_opAddV2Z
+is_func0"-õÀEagerLocalExecute: AddV2HÀÛùÀ˜PÀĞßÀ"%õÀEagerCopyToDeviceH ¾‡Ê˜Pà£·"0õÀValidateInputTypeAndPlacementHà äÑ˜PÀ„="'õÀEagerKernelExecuteHÀÑğÒ˜P Ğ­"-õÀKernelAndDeviceFunc::RunHÀÚêÓ˜P —†©"+õÀTFE_DeleteTensorHandleH€•û”°P Ò‡à")õÀTFE_DeleteTensorHandleHÀ÷Ô…¸P€‰z")õÀTFE_DeleteTensorHandleH İù†¸PÀš")õÀTFE_DeleteTensorHandleHà¬‡¸PÀš")õÀTFE_DeleteTensorHandleH ±Û‡¸P€ŸI")õÀTFE_DeleteTensorHandleH …½ˆ¸P ÷6"+õÀTFE_DeleteTensorHandleH ¤†‰¸P€‘Ùƒ"%õÀconvert_to_tensorH äÉœ¿PÀñ¹"-õÀTFE_Py_FastPathExecute_CH Æ®Ò¿P  —ˆ"HõÀEagerExecuteH€á ì¿PàáíëZ
+is_func0Z
+eager_opVarHandleOp"3õÀEagerLocalExecute: VarHandleOpHàÏ¿î¿Pà°°é"$õÀEagerCopyToDeviceHà‚…ü¿P Â"0õÀValidateInputTypeAndPlacementHÀ¯»ÃPà§"&õÀEagerKernelExecuteH€ÓÁŸÃPÀÃı7",õÀKernelAndDeviceFunc::RunHà™ ÃPàíÄ-"-õÀTFE_Py_FastPathExecute_CHÀü³£ÄP¸°µ"MõÀEagerExecuteH şŠ­ÄPÀ®“ªZ
+is_func0Z
+eager_opAssignVariableOp"8õÀ#EagerLocalExecute: AssignVariableOpH€Åæ­ÄP”¤©"%õÀEagerCopyToDeviceHàäÂ²ÄPàî"0õÀValidateInputTypeAndPlacementH€¾¦ÇP¨ıA"&õÀEagerKernelExecuteHà€–§ÇPˆŸÆ/",õÀKernelAndDeviceFunc::RunH°¬à§ÇPà‚Ü#")õÀTFE_DeleteTensorHandleHÈ İàÇPàüI"õÀtf.constantHØ„ÖùÈP°§Û!"GõÀEagerExecuteHØ…ÿ‡ÉPĞ¨›Z
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstHèÈÖˆÉP í¶"$õÀEagerCopyToDeviceHğí‹ÉPØşe"0õÀValidateInputTypeAndPlacementHØåÇÉPĞÇ"&õÀEagerKernelExecuteHà±ÉPààç",õÀKernelAndDeviceFunc::RunH€¾¿ÉP˜„ç")õÀTFE_DeleteTensorHandleHà¡£™ÉPè!"õÀtf.constantH¦± ÉP˜Ğ§",õÀTFE_Py_FastPathExecute_CHğš°¬ÉP˜Å°"@õÀEagerExecuteHˆÒ‰²ÉP°ìßZ
+eager_opFillZ
+is_func0"+õÀEagerLocalExecute: FillHÈı¹²ÉPè±§"%õÀEagerCopyToDeviceH¸ü´¹ÉP¸óˆ"0õÀValidateInputTypeAndPlacementH¸Ô¼ÉPà¼"&õÀEagerKernelExecuteH ÷¼ÉP€ôÙ",õÀKernelAndDeviceFunc::RunHØÚ”½ÉP˜Œü")õÀTFE_DeleteTensorHandleHÈàÂÎÉPØª")õÀTFE_DeleteTensorHandleHÀçıÑÉP¨€A"%õÀconvert_to_tensorHĞıÚÕÉPğı§"-õÀTFE_Py_FastPathExecute_CHˆ³ƒïÉPøï†€"HõÀEagerExecuteHğ›™ùÉPØ¼‡ôZ
+is_func0Z
+eager_opVarHandleOp"3õÀEagerLocalExecute: VarHandleOpHà®ÌùÉP¸ãÆó"$õÀEagerCopyToDeviceH¸ääÿÉPˆ‰
+"0õÀValidateInputTypeAndPlacementHàŠèÁÌPğŠ"&õÀEagerKernelExecuteH°¹±ÂÌP°’Ç*",õÀKernelAndDeviceFunc::RunH ±íÂÌP˜¡¶!"-õÀTFE_Py_FastPathExecute_CHèÁ£ÍPÀ€ğ"MõÀEagerExecuteHÀ²¶«ÍP¸ÿª•Z
+eager_opAssignVariableOpZ
+is_func0"8õÀ#EagerLocalExecute: AssignVariableOpH ‹¬ÍP÷Â”"%õÀEagerCopyToDeviceHÀö½¯ÍPÎú"0õÀValidateInputTypeAndPlacementHõÌ•ĞP¸„0"&õÀEagerKernelExecuteHØ¢³–ĞPòó)",õÀKernelAndDeviceFunc::RunHğãî–ĞPÀ ­")õÀTFE_DeleteTensorHandleHø™ÎÉĞPĞŞ9"%õÀconvert_to_tensorHè‰ïÂÑP€îü"&õÀconvert_to_tensorHØµŞÈÑPøö¥á"&õÀconvert_to_tensorHøªĞøÒPˆÇ¡¦"%õÀconvert_to_tensorHèßµ×Pè¬Á"%õÀconvert_to_tensorHÈ¡†¿×P ·é"%õÀconvert_to_tensorHğÚ¿ßÙP¸¹Â"&õÀconvert_to_tensorH ±äÙPĞöÇÆ"%õÀconvert_to_tensorHØ„ßÀÚP°§Ów"%õÀconvert_to_tensorH„§ùÜPøï›"%õÀconvert_to_tensorHÀÀõœİP¸’É"%õÀconvert_to_tensorH˜õââßPˆç¸"%õÀconvert_to_tensorHØÁ«ûáPğî¸"&õÀconvert_to_tensorHà¾›…âPğÑ‚"%õÀconvert_to_tensorHàÇŞµæP€ö"%õÀconvert_to_tensorHèƒÀ½æP¸É"%õÀconvert_to_tensorH ’øÉêPˆœÑ"õÀtf.constantHğ¶ÓÊíPàÖ“2"GõÀEagerExecuteH¸¦îÜíPğğ“Z
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstH°ÓÌŞíP˜‡ª"%õÀEagerCopyToDeviceH€¬ùãíPğæ”"0õÀValidateInputTypeAndPlacementHèù£êíPˆˆ4"&õÀEagerKernelExecuteH¨®ÎëíPˆ‚",õÀKernelAndDeviceFunc::RunH¸€¡ìíPøÊ")õÀTFE_DeleteTensorHandleHÇÅúíP€´B"õÀtf.constantHØÀÔîP€×¤"GõÀEagerExecuteHğÕÜ‰îPø™ö	Z
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstHà‰…ŠîPÈÂÄ	"$õÀEagerCopyToDeviceHè¢Ú‹îPèµD"0õÀValidateInputTypeAndPlacementHè‚²îPÈ¬"&õÀEagerKernelExecuteH¸‘ÜîPĞÅß",õÀKernelAndDeviceFunc::RunH ËõîPÈö")õÀTFE_DeleteTensorHandleH¸ô©”îP¨„",õÀTFE_Py_FastPathExecute_CH¸©§îPŒÅ"@õÀEagerExecuteH‰¯¤îPÀ€²Z
+is_func0Z
+eager_opFill"+õÀEagerLocalExecute: FillHÀû×¤îPø³ÿ"$õÀEagerCopyToDeviceHì«îPØ³~"0õÀValidateInputTypeAndPlacementHğÏì®îP€Í"&õÀEagerKernelExecuteH˜”¯îPÈ‡´",õÀKernelAndDeviceFunc::RunHØÿ²¯îP„Ú")õÀTFE_DeleteTensorHandleH€ï®ºîP¸‹")õÀTFE_DeleteTensorHandleHøˆ·¾îPĞ¥L"%õÀconvert_to_tensorHè’äÁîP°Å¥"-õÀTFE_Py_FastPathExecute_CHÀ›ÏÛîP¨òê­"HõÀEagerExecuteHàˆ’çîP¨Ô¡ŸZ
+is_func0Z
+eager_opVarHandleOp"3õÀEagerLocalExecute: VarHandleOpH¸¯ÁçîPĞòÛ"$õÀEagerCopyToDeviceH¸©®îîPÈÓ"0õÀValidateInputTypeAndPlacementH¸÷ñÃòPÀ‹"&õÀEagerKernelExecuteHçÜÄòPè¦ƒA",õÀKernelAndDeviceFunc::RunH˜›¬ÅòPğáĞ3"-õÀTFE_Py_FastPathExecute_CHğÿÃÑóPˆ¯Åê"MõÀEagerExecuteHèÖöÜóPÀ‰­İZ
+is_func0Z
+eager_opAssignVariableOp"8õÀ#EagerLocalExecute: AssignVariableOpHØ‚õİóPÀÚ•Ü"%õÀEagerCopyToDeviceHˆ‡ãóP°š"0õÀValidateInputTypeAndPlacementHĞè¤‰÷PèĞ;"&õÀEagerKernelExecuteH¨ò°Š÷Pğúª/",õÀKernelAndDeviceFunc::RunHØûûŠ÷Pğ½‰%")õÀTFE_DeleteTensorHandleH°äÛÇ÷P˜±j"õÀtf.constantH°ÃßğøP˜¿&"GõÀEagerExecuteH°Á€‚ùPèÇZ
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstHÅ›ƒùP¸¤Ÿ"$õÀEagerCopyToDeviceH˜¸Í†ùP¸Öh"0õÀValidateInputTypeAndPlacementHÀéÈŠùP Ô"&õÀEagerKernelExecuteHªŒ‹ùPÈÆœ",õÀKernelAndDeviceFunc::RunH—¼‹ùP š")õÀTFE_DeleteTensorHandleHĞ„¼”ùP¨Ú#"õÀtf.constantH¨ÏÇœùPèäÏ",õÀTFE_Py_FastPathExecute_CH€Î‰©ùP¨ßú"@õÀEagerExecuteHÀó¦°ùP€©ãZ
+is_func0Z
+eager_opFill"+õÀEagerLocalExecute: FillH€Ÿ×°ùPğ‹©"%õÀEagerCopyToDeviceH¨Øğ·ùPÀ ‡"0õÀValidateInputTypeAndPlacementHğ›»ùPÈ¦"&õÀEagerKernelExecuteHèğÇ»ùPÈ«¨",õÀKernelAndDeviceFunc::RunHÀÊæ»ùPÈ­Ô")õÀTFE_DeleteTensorHandleHÈÿêÆùP ")õÀTFE_DeleteTensorHandleH°ç¿ÊùPÈ¢@"%õÀconvert_to_tensorH˜®ŸÎùP¨ÄÂ",õÀTFE_Py_FastPathExecute_CHÈÒêùPÀ—¶"GõÀEagerExecuteH°» õùPà„ÁZ
+eager_opVarHandleOpZ
+is_func0"2õÀEagerLocalExecute: VarHandleOpH†ÑõùPà¸†"$õÀEagerCopyToDeviceH·‹ùùP€ë"0õÀValidateInputTypeAndPlacementH¸‹«ûùPˆ˜"&õÀEagerKernelExecuteH¨ãÇûùP¸½ÿ	",õÀKernelAndDeviceFunc::RunH¨•áûùPˆ¼Ş",õÀTFE_Py_FastPathExecute_CHà·Ù´úPğÕ·"LõÀEagerExecuteH€ıäºúPà¶æZ
+is_func0Z
+eager_opAssignVariableOp"7õÀ#EagerLocalExecute: AssignVariableOpHÀŠŸ»úP Í "%õÀEagerCopyToDeviceHøòû½úP€¶è"0õÀValidateInputTypeAndPlacementHèÌµÂúPˆÓ"&õÀEagerKernelExecuteH€©èÂúP¨ÍÅ",õÀKernelAndDeviceFunc::RunH‚ÃúP°±ˆ")õÀTFE_DeleteTensorHandleHÈ¶”ÌúPè•%"õÀtf.constantHèâœ·ûP˜æº"GõÀEagerExecuteH˜º°ÁûPÈ€ÔZ
+eager_op_EagerConstZ
+is_func0"2õÀEagerLocalExecute: _EagerConstHğ³îÁûP€ü‰"$õÀEagerCopyToDeviceHü„ÄûPÃW"0õÀValidateInputTypeAndPlacementH°Ê–ÇûPà³"&õÀEagerKernelExecuteHˆèÈÇûP  ",õÀKernelAndDeviceFunc::RunHø¼æÇûPĞº¹")õÀTFE_DeleteTensorHandleHĞì€ÎûPøï!"õÀtf.constantH¨ç‚ÔûPè‡ñ",õÀTFE_Py_FastPathExecute_CHĞèûİûPà¶Ô"@õÀEagerExecuteHÀ¹¸âûPˆ±©Z
+is_func0Z
+eager_opFill"+õÀEagerLocalExecute: FillH¶èâûPØñï"%õÀEagerCopyToDeviceH¨–äæûPÀ¦…"0õÀValidateInputTypeAndPlacementH °ïéûP€Ù"&õÀEagerKernelExecuteH¸¹“êûPÈ–µ",õÀKernelAndDeviceFunc::RunHèÉ²êûPĞÔÚ")õÀTFE_DeleteTensorHandleHøÖƒóûP€ô")õÀTFE_DeleteTensorHandleH€Ç¶öûPğ’3"%õÀconvert_to_tensorHØ²ÆùûP€»„",õÀTFE_Py_FastPathExecute_CHøÓ§‘üPàŠª"GõÀEagerExecuteHÀÊ±šüP¸ÓÂZ
+is_func0Z
+eager_opVarHandleOp"2õÀEagerLocalExecute: VarHandleOpHğªàšüP˜â‰"$õÀEagerCopyToDeviceHØäğüPÀ©"0õÀValidateInputTypeAndPlacementHøĞûŸüP¨½"&õÀEagerKernelExecuteHÈ•” üP°ÓÇ",õÀKernelAndDeviceFunc::RunH°Ï­ üP°ëÂ",õÀTFE_Py_FastPathExecute_CH˜ìœÍüP˜Û¦"LõÀEagerExecuteHˆ–ãÒüPà›Z
+eager_opAssignVariableOpZ
+is_func0"7õÀ#EagerLocalExecute: AssignVariableOpHØúšÓüP¸¦×"%õÀEagerCopyToDeviceHğÀøÕüPÈòÌ"0õÀValidateInputTypeAndPlacementHˆËæÙüPğ¿$"&õÀEagerKernelExecuteH¨°£ÚüP¸¹¼",õÀKernelAndDeviceFunc::RunHøÍÈÚüPÀ—")õÀTFE_DeleteTensorHandleHˆ™¯ãüPøà&"õÀtf.constantHØçĞÎıP°›â "GõÀEagerExecuteH°ˆÛÛıPè ›Z
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstHÀÅ´ÜıP€İ±"%õÀEagerCopyToDeviceH ”±ßıPèì…"0õÀValidateInputTypeAndPlacementHÈ”æãıPÈ¬"&õÀEagerKernelExecuteHĞû¤äıP¨ı¬",õÀKernelAndDeviceFunc::RunHĞîÒäıPØ—¢")õÀTFE_DeleteTensorHandleHÈï€íıPàÖ,"õÀtf.constantHØú¥öıP€úì",õÀTFE_Py_FastPathExecute_CHøµÃ…şPÈùÌ"@õÀEagerExecuteH¸„ıŒşP°×õZ
+eager_opFillZ
+is_func0"+õÀEagerLocalExecute: FillHÀâ¾şPĞÚ«"%õÀEagerCopyToDeviceHĞ‚é’şPÀ´ª"1õÀValidateInputTypeAndPlacementHØü—şPˆñ‹"&õÀEagerKernelExecuteHĞ†¦šşPø€´",õÀKernelAndDeviceFunc::RunHĞ…ĞšşP°âÈ")õÀTFE_DeleteTensorHandleH˜œö¤şPÀ¬")õÀTFE_DeleteTensorHandleHØ¶ö¨şP˜Ó5"%õÀconvert_to_tensorHèœã¬şPÀû­",õÀTFE_Py_FastPathExecute_CH¨Ş”ÆşPĞø‰"GõÀEagerExecuteH¡ĞşPøÇ¨Z
+eager_opVarHandleOpZ
+is_func0"2õÀEagerLocalExecute: VarHandleOpHĞ®ÇĞşPğìå"$õÀEagerCopyToDeviceH¨…ÔşP ‡"0õÀValidateInputTypeAndPlacementH€¢´ÖşPøÌ"&õÀEagerKernelExecuteH°¾ÏÖşPĞÑÌ	",õÀKernelAndDeviceFunc::RunHàÈğÖşPğ²º",õÀTFE_Py_FastPathExecute_CHøë‡ÿP "LõÀEagerExecuteH¥¢ÿPˆØœZ
+eager_opAssignVariableOpZ
+is_func0"7õÀ#EagerLocalExecute: AssignVariableOpH¨àßÿP˜ŠÓ"%õÀEagerCopyToDeviceHĞüä‘ÿPÀ€å"0õÀValidateInputTypeAndPlacementHğèé•ÿP°é+"&õÀEagerKernelExecuteH „¯–ÿPÀÄï",õÀKernelAndDeviceFunc::RunH©Ü–ÿP€Û©")õÀTFE_DeleteTensorHandleHÀš” ÿP˜ñ+"&õÀconvert_to_tensorH¸½¥€PØ½"&õÀconvert_to_tensorHğÜÉ›PğÑ»"&õÀconvert_to_tensorH ¾²ÈƒP˜Ô§Ä"%õÀconvert_to_tensorHÅğ™„Pàõu"&õÀconvert_to_tensorHĞÔ£¤†PğØœé"&õÀconvert_to_tensorH ’Â„‡Pá Œ"&õÀconvert_to_tensorHèŞü¥‰PàØÙÌ"%õÀconvert_to_tensorHØù¿ŠPàäË"&õÀconvert_to_tensorH€æë ŒP‡¯‘"%õÀconvert_to_tensorH˜¾…PøãŸ"%õÀconvert_to_tensorHØ€û¦P«Ó"%õÀconvert_to_tensorH°‘ó™P€±½"%õÀconvert_to_tensorH°‹–‰’P ÇÀ"%õÀconvert_to_tensorH ó”­’P¨‚Ş"%õÀconvert_to_tensorH˜¯÷¥”Pè¸½"%õÀconvert_to_tensorHè×ÜÇ”PÈÅÒ"%õÀconvert_to_tensorHˆÑ¥ –PğˆÚ"%õÀconvert_to_tensorH¸‰«À–P‚·"%õÀconvert_to_tensorHø€‘“˜Pğ×–"%õÀconvert_to_tensorHĞÊ²˜Pˆù¬"%õÀconvert_to_tensorH¨–áŠšPĞÁ“"%õÀconvert_to_tensorH°ã¡©šPğšÎ"%õÀconvert_to_tensorHÈíøP€–Æ"%õÀconvert_to_tensorHÀ»ÂPÀÕœ"&õÀconvert_to_tensorHèÂÙÖP¨ ³Œ"%õÀconvert_to_tensorH˜¡éŸP˜öÙ{"%õÀconvert_to_tensorHĞĞ†ë P¸„Îs"%õÀconvert_to_tensorH¸¾Ë¢PğÂ"%õÀconvert_to_tensorHàìÕ¢P¨óë"%õÀconvert_to_tensorHèÍ¨ç¢Pø²Ó"%õÀconvert_to_tensorHˆäŠò¢PğÀî"%õÀconvert_to_tensorHéğ ªP˜¦»"&õÀconvert_to_tensorHÀÓÈ®ªPğ½¸¹"%õÀconvert_to_tensorHø•±¾¯Pàî"&õÀconvert_to_tensorHĞ²•æ¯Pøˆ›Â"%õÀconvert_to_tensorHà¾ËóµPàê±
+"%õÀconvert_to_tensorHÈ’Ê‡¶Pˆ¯¡"%õÀconvert_to_tensorHØ˜Ä‘¶PØ¯"%õÀconvert_to_tensorH˜ó¦„¸Pàãõ"&õÀconvert_to_tensorH¸ãå¸Pè“®–"%õÀconvert_to_tensorHÀş†¨»PÈßù"&õÀconvert_to_tensorHğĞ¤Ë»Pğ‹Ş§"%õÀconvert_to_tensorHØñ¶ÏÀPØÍ„
+"%õÀconvert_to_tensorHàŞ·ãÀPøºƒ"%õÀconvert_to_tensorHØ™£íÀPÀÀš"%õÀconvert_to_tensorHˆÆÒ¤ÃPøÔ¡"%õÀconvert_to_tensorHˆË÷ŸÅP £ôH"õÀtf.constantHÈ÷«ÅP ®Ç:"GõÀEagerExecuteH€öÌÀÅPˆâ°!Z
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstH¨ÙçÂÅPà«‡"%õÀEagerCopyToDeviceH¨µáÈÅPˆØÀ"0õÀValidateInputTypeAndPlacementHĞê¥ĞÅP¾/"&õÀEagerKernelExecuteH ¦¾ÑÅPØ‚‹",õÀKernelAndDeviceFunc::RunH ıÒÅPè§õ")õÀTFE_DeleteTensorHandleH˜•ÔãÅPğ¦V"%õÀconvert_to_tensorH¸¥¾ìÅPĞ²â"õÀtf.constantHøó÷óÅPàš®"%õÀconvert_to_tensorH¸Î˜‚ÆP¸çâ"õÀtf.constantH°æñ‡ÆP¸˜Ç",õÀTFE_Py_FastPathExecute_CHñ§›ÆPøş‡"%õÀconvert_to_tensorH˜š÷¸ÆPØ­&"õÀtf.constantHàšÑÂÆPø¡"GõÀEagerExecuteHˆûËÆP€®šZ
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstH°ÍÑÌÆP …µ"$õÀEagerCopyToDeviceHØ¡ÏÆP¸Ík"0õÀValidateInputTypeAndPlacementHğı—ÓÆP°œ"&õÀEagerKernelExecuteH ŸÛÓÆP ¡—",õÀKernelAndDeviceFunc::RunH€ö‡ÔÆP¡€")õÀTFE_DeleteTensorHandleHø€ŒÛÆPÀÃ(",õÀTFE_Py_ExecuteCancelableH°¹ÔéÆPÈŞä"XõÀEagerExecuteH˜Ñ–îÆPˆÙàZ
+is_func0Z(
+eager_opStatelessRandomGetKeyCounter"CõÀ/EagerLocalExecute: StatelessRandomGetKeyCounterH°¡ÍîÆP˜ó"$õÀEagerCopyToDeviceH˜“õñÆPèŸu"0õÀValidateInputTypeAndPlacementH¯©õÆP¸ä"&õÀEagerKernelExecuteHÈÅÓõÆPÈí†",õÀKernelAndDeviceFunc::RunHøÆ÷õÆP¸µŞ")õÀTFE_DeleteTensorHandleH€áõ…ÇPŸc"-õÀTFE_Py_FastPathExecute_CHØÖÒŠÇPğ¼­¡")õÀTFE_DeleteTensorHandleHÀ»–”ÇPˆ"UõÀEagerExecuteHğ–š•ÇP ¸ı“Z
+is_func0Z$
+eager_opStatelessRandomUniformV2"@õÀ+EagerLocalExecute: StatelessRandomUniformV2Hø¡Í•ÇPè¨§“"%õÀEagerCopyToDeviceHàÌß™ÇPøÉş"0õÀValidateInputTypeAndPlacementH€Õ®ÇPøû"'õÀEagerKernelExecuteHØÂğÇP€‡¤‰"-õÀKernelAndDeviceFunc::RunHˆ¸˜ŸÇPÀ‰¾‡",õÀTFE_Py_FastPathExecute_CHğ¡¡ÃÉPî˜,"?õÀEagerExecuteHÀÁÂÒÉPˆäëZ
+is_func0Z
+eager_opSub"*õÀEagerLocalExecute: SubHèõÅÓÉPè€Û"%õÀEagerCopyToDeviceHˆÁÌÚÉP°½Š"0õÀValidateInputTypeAndPlacementHÈƒáÉPøõ"&õÀEagerKernelExecuteH¸ŒíáÉP€«¡",õÀKernelAndDeviceFunc::RunHĞ—ºâÉPè¶ù
+",õÀTFE_Py_FastPathExecute_CH°–Ó€ÊPˆçÛ "?õÀEagerExecuteHàÚ¥†ÊP€Ú‘Z
+is_func0Z
+eager_opMul"*õÀEagerLocalExecute: MulH€¨ê†ÊPØ€Ä"%õÀEagerCopyToDeviceH ¹¶‹ÊPè¼•"0õÀValidateInputTypeAndPlacementHĞÀÌÊP•"&õÀEagerKernelExecuteHøÏˆÊPÀì”",õÀKernelAndDeviceFunc::RunHØÊ©ÊP¸˜¦")õÀTFE_DeleteTensorHandleHğÙ£ÊPˆ‡^"%õÀconvert_to_tensorHĞË¯ÊPˆæÜ"%õÀconvert_to_tensorHÈ²“»ÊPÈØ¥",õÀTFE_Py_FastPathExecute_CHèÉÑÃÊPà´!"AõÀEagerExecuteH˜ö«ÉÊP ıãZ
+is_func0Z
+eager_opAddV2",õÀEagerLocalExecute: AddV2H€ïÉÊPØ„–"%õÀEagerCopyToDeviceHˆÖàÎÊP°à«"0õÀValidateInputTypeAndPlacementHˆøœÓÊP İ"&õÀEagerKernelExecuteHˆ»ÚÓÊPğÜ”",õÀKernelAndDeviceFunc::RunH¨å€ÔÊPà”•")õÀTFE_DeleteTensorHandleHĞŠÓæÊPØÅx")õÀTFE_DeleteTensorHandleH°‘äêÊPøÇX")õÀTFE_DeleteTensorHandleH€¡áëÊPàÔ")õÀTFE_DeleteTensorHandleH€ÙøëÊPÀ²")õÀTFE_DeleteTensorHandleH˜âœìÊP¨¶/")õÀTFE_DeleteTensorHandleHÈ†ßìÊP˜¤")õÀTFE_DeleteTensorHandleH¸«ŒíÊPèè3"%õÀconvert_to_tensorHàÏ²òÊP ÌÖ"-õÀTFE_Py_FastPathExecute_CHğ¢àšËPĞ„´Ó"HõÀEagerExecuteH ƒÜ«ËPè“ÀZ
+eager_opVarHandleOpZ
+is_func0"3õÀEagerLocalExecute: VarHandleOpHˆ©¬ËPÀÿ­¿"$õÀEagerCopyToDeviceH€àå¶ËPà³"0õÀValidateInputTypeAndPlacementHĞ‡‚ŸÏPÀ”"&õÀEagerKernelExecuteH èäŸÏP°ãÆK",õÀKernelAndDeviceFunc::RunHÀš² ÏP°£Ù0"-õÀTFE_Py_FastPathExecute_CHĞñç´ĞP¨½Í…"MõÀEagerExecuteHè½«¿ĞP¸äùZ
+is_func0Z
+eager_opAssignVariableOp"8õÀ#EagerLocalExecute: AssignVariableOpH ‚šÀĞP “ø÷"%õÀEagerCopyToDeviceHÈæÅĞP˜Úƒ"0õÀValidateInputTypeAndPlacementH¢ÇıÓPÈ„J"&õÀEagerKernelExecuteH€âèşÓPØ¦9",õÀKernelAndDeviceFunc::RunH˜õÜÿÓP˜¶‹-")õÀTFE_DeleteTensorHandleHàşíÉÔPˆ½L"%õÀconvert_to_tensorHØÌçåÕPØ©"%õÀconvert_to_tensorHøŸÑÖÖPÀ¨«"%õÀconvert_to_tensorH ›–ØPˆù²"%õÀconvert_to_tensorHàÌ±ÚP¸Ûò
+"%õÀconvert_to_tensorH ŸÅÈÚP°¨‘"%õÀconvert_to_tensorH°…ŠıÜPˆİå"%õÀconvert_to_tensorH°Ûê…ßP êŞ"%õÀconvert_to_tensorHĞúâØàPˆòŞ"%õÀconvert_to_tensorHˆ¶ÖÿáP˜¬¼"%õÀconvert_to_tensorHø”ËÎãPÀËÉ"%õÀconvert_to_tensorHøë¾“çP¨ß¿"%õÀconvert_to_tensorHÈü„¼éPÀŞ S"õÀtf.constantHÀÖ­ÊéPøñB"GõÀEagerExecuteHĞıòáéPˆë¤$Z
+eager_op_EagerConstZ
+is_func0"2õÀEagerLocalExecute: _EagerConstH˜¯¨äéPˆÕŞ!"%õÀEagerCopyToDeviceHˆÀëéPˆæå"0õÀValidateInputTypeAndPlacementH€×šóéP¸Ñ@"&õÀEagerKernelExecuteHØúÇôéP€Š",õÀKernelAndDeviceFunc::RunHÈÍ¹õéPˆ¾õ")õÀTFE_DeleteTensorHandleH üÖˆêPÀ¼T"%õÀconvert_to_tensorH àè“êPğ‘•"õÀtf.constantHàğ†êPğ®è"%õÀconvert_to_tensorHèÑ”®êP¸ı"õÀtf.constantHÈ™´´êPĞÄ‰",õÀTFE_Py_FastPathExecute_CHğ‚‹ÌêPØŸÆ"%õÀconvert_to_tensorHø‘¿çêPè“„'"õÀtf.constantH˜˜ÖğêP€¥ó"GõÀEagerExecuteH¸ÉµùêPèó©Z
+eager_op_EagerConstZ
+is_func0"2õÀEagerLocalExecute: _EagerConstHˆÂúêPˆÎÃ"$õÀEagerCopyToDeviceH˜ŠŠıêP Şh"0õÀValidateInputTypeAndPlacementHØ§‰ëP€"&õÀEagerKernelExecuteHĞõßëPàÙ",õÀKernelAndDeviceFunc::RunH°®–‚ëPàí¼")õÀTFE_DeleteTensorHandleHĞıëŠëPè'",õÀTFE_Py_ExecuteCancelableH¸•“˜ëPÈ³¢"XõÀEagerExecuteH€œúœëPà­İZ
+is_func0Z(
+eager_opStatelessRandomGetKeyCounter"CõÀ/EagerLocalExecute: StatelessRandomGetKeyCounterH€’§ëP€ï¨"$õÀEagerCopyToDeviceHäğ ëP–f"0õÀValidateInputTypeAndPlacementH á‚¤ëPˆ€"&õÀEagerKernelExecuteHˆÙ±¤ëPè€‘	",õÀKernelAndDeviceFunc::RunH°³Õ¤ëP ¨å")õÀTFE_DeleteTensorHandleH€ïÆ²ëPàçP".õÀTFE_Py_FastPathExecute_CH «Û¶ëP¨»Ã–ç")õÀTFE_DeleteTensorHandleHğÿ©¿ëP¨À"VõÀEagerExecuteHØ¥ÀëPˆÄ¼†çZ
+is_func0Z$
+eager_opStatelessRandomUniformV2"AõÀ+EagerLocalExecute: StatelessRandomUniformV2HˆÉÀëP€äÑ…ç"%õÀEagerCopyToDeviceHĞ¢…ÄëP ¾Æ"0õÀValidateInputTypeAndPlacementHø­ãÇëP˜³"(õÀEagerKernelExecuteH˜½’ÈëP •çüæ".õÀKernelAndDeviceFunc::RunHàÂ²ÈëP€€Ãùæ",õÀTFE_Py_FastPathExecute_CHĞ³ÁõÒP —«8"?õÀEagerExecuteHè”é†ÓPØøõ%Z
+eager_opSubZ
+is_func0"*õÀEagerLocalExecute: SubHĞ‹¿ˆÓPà×“$"%õÀEagerCopyToDeviceHĞÊŒ’ÓP˜¥è"0õÀValidateInputTypeAndPlacementHÀŸ›ÓPˆğ;"&õÀEagerKernelExecuteHØø¿œÓPğ°ù",õÀKernelAndDeviceFunc::RunHàÛ©ÓP€–¢"-õÀTFE_Py_FastPathExecute_CHĞúìÀÓPØ™™¥"@õÀEagerExecuteHˆØšÆÓPğ‘½™Z
+is_func0Z
+eager_opMul"+õÀEagerLocalExecute: MulHàïÎÆÓPÈªÊ˜"%õÀEagerCopyToDeviceH¨‹¯ËÓP˜˜œ"0õÀValidateInputTypeAndPlacementHÈ§ÏÓP˜È"'õÀEagerKernelExecuteH ¿ØÏÓP•”"-õÀKernelAndDeviceFunc::RunHÈ“şÏÓPğ•¿Š"*õÀTFE_DeleteTensorHandleHĞù±ğêPÀÙñ"%õÀconvert_to_tensorH˜­ª”ëPà°÷"%õÀconvert_to_tensorHğƒ¨ëPèŒŸ"-õÀTFE_Py_FastPathExecute_CH½³ëPˆÓã”"BõÀEagerExecuteHÈ×ÎÇëPÀ€‡ùZ
+eager_opAddV2Z
+is_func0"-õÀEagerLocalExecute: AddV2HˆúûÉëPĞ‡şõ"%õÀEagerCopyToDeviceHğ¹òÔëPèŒŸ"0õÀValidateInputTypeAndPlacementH°îßëPĞê5"'õÀEagerKernelExecuteHĞ¹šàëPø©ÒŞ"-õÀKernelAndDeviceFunc::RunHˆïáëPĞÏ½Ù"+õÀTFE_DeleteTensorHandleH¨óÊÒ†PøûÇ×"*õÀTFE_DeleteTensorHandleHÈšéºP ß»")õÀTFE_DeleteTensorHandleH¨‡ß¼PĞÙ")õÀTFE_DeleteTensorHandleHø¡…½P˜¡")õÀTFE_DeleteTensorHandleH¨´Í½PğÍI")õÀTFE_DeleteTensorHandleHø²¦¾PØ7"+õÀTFE_DeleteTensorHandleHàåë¾PØ·±"%õÀconvert_to_tensorHˆ¤ğ—PèÏ¦",õÀTFE_Py_FastPathExecute_CH –¯«˜Pğ´¯C"GõÀEagerExecuteHˆËÏÅ˜PØ·Û'Z
+eager_opVarHandleOpZ
+is_func0"2õÀEagerLocalExecute: VarHandleOpHÀóíÇ˜P˜‰²%"$õÀEagerCopyToDeviceHĞõ˜Ğ˜Pèñ0"0õÀValidateInputTypeAndPlacementHøıñÕ˜P˜Å"&õÀEagerKernelExecuteH€áÛÖ˜P€İœ",õÀKernelAndDeviceFunc::RunHı¿×˜P¸®æ",õÀTFE_Py_FastPathExecute_CH¸ªí¬™P¨›ä"LõÀEagerExecuteH Òô´™PøƒŒZ
+is_func0Z
+eager_opAssignVariableOp"7õÀ#EagerLocalExecute: AssignVariableOpHà£Âµ™P€¼³"%õÀEagerCopyToDeviceHøâÅº™P¨©×"0õÀValidateInputTypeAndPlacementHè†À™P¨ëG"&õÀEagerKernelExecuteHĞÓôÀ™PËì",õÀKernelAndDeviceFunc::RunHè²¦Á™P˜Ü ")õÀTFE_DeleteTensorHandleHè¨¯Í™P¨ëG"õÀtf.constantHø–ŞšP˜ƒÀ!"GõÀEagerExecuteHğ–ÙìšPøÎÿZ
+eager_op_EagerConstZ
+is_func0"2õÀEagerLocalExecute: _EagerConstH¸°œíšPĞø°"$õÀEagerCopyToDeviceH˜”’ğšPğÛn"0õÀValidateInputTypeAndPlacementHğ¼áóšPĞ»"&õÀEagerKernelExecuteHøš£ôšPè€—",õÀKernelAndDeviceFunc::RunHèÚÇôšP°Ë£")õÀTFE_DeleteTensorHandleH¨›ÖıšPØÓ "õÀtf.constantH¨—ì„›PØó°",õÀTFE_Py_FastPathExecute_CHğ“ë›PøæÃI"@õÀEagerExecuteHğøä•›PøŠÊCZ
+eager_opFillZ
+is_func0"+õÀEagerLocalExecute: FillHÀø“–›P ÿ‘C"%õÀEagerCopyToDeviceHˆĞ×›PÀ¦…"0õÀValidateInputTypeAndPlacementHíû ›P’"&õÀEagerKernelExecuteHĞ˜¬¡›P ïä7",õÀKernelAndDeviceFunc::RunHˆÙÈ¡›PÈ‘ô6")õÀTFE_DeleteTensorHandleHèî©İ›Pˆ›")õÀTFE_DeleteTensorHandleH¨ò‡á›PàğM"%õÀconvert_to_tensorHØ¹ßä›P¸–˜",õÀTFE_Py_FastPathExecute_CHóÜı›Pàø‹#"GõÀEagerExecuteH Û×ŠœPÈùäZ
+eager_opVarHandleOpZ
+is_func0"2õÀEagerLocalExecute: VarHandleOpHÈ½¢‹œP¨å"$õÀEagerCopyToDeviceH°ºíœPØ›	"0õÀValidateInputTypeAndPlacementHğ›“œPğœ"&õÀEagerKernelExecuteH şÚ“œPˆş¿",õÀKernelAndDeviceFunc::RunH˜€÷“œPĞ”Š
+",õÀTFE_Py_FastPathExecute_CHø­ÄÓœPàØû"LõÀEagerExecuteH°•¹ÜœPà½¢Z
+eager_opAssignVariableOpZ
+is_func0"7õÀ#EagerLocalExecute: AssignVariableOpHÖ–İœPğÕ·"%õÀEagerCopyToDeviceHĞ»áœP¹"0õÀValidateInputTypeAndPlacementH ½ÄçœP ÍD"&õÀEagerKernelExecuteH ´ÄèœP³ñ",õÀKernelAndDeviceFunc::RunH°İúèœPˆ¬“")õÀTFE_DeleteTensorHandleHÊÌöœPĞç6"%õÀconvert_to_tensorHğ›¹ûP˜Ä±"&õÀconvert_to_tensorH˜ÉÖ‚PÈıÅ„"&õÀconvert_to_tensorHÀĞğ§ŸP€«ÆĞ"%õÀconvert_to_tensorHà™ÿè¢PèÙ²"%õÀconvert_to_tensorHĞØíˆ£PÈãÈ"%õÀconvert_to_tensorH°›ó°¤PÀ“²"&õÀconvert_to_tensorHÀ¦§µ¤Pè¹©È"%õÀconvert_to_tensorHÈ„Ì’¥Pğ¥’x"%õÀconvert_to_tensorH ù¿Á§P¨Î¡"%õÀconvert_to_tensorHàåã§P ²Á"%õÀconvert_to_tensorHÀÀáñ©PÀ±¥"%õÀconvert_to_tensorH°±‚×¬PĞ¥Æ"&õÀconvert_to_tensorHøÎùá¬PĞõ›"%õÀconvert_to_tensorHÈ‘Ï´°PÀ¶Ç"%õÀconvert_to_tensorHØ‹Ó¼°PğÚ"%õÀconvert_to_tensorHÀí˜–²PØ±Ï"õÀtf.constantHà ²½´PĞ¡º>"GõÀEagerExecuteHÈÑ‰Ô´PàÛ"Z
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstH€à†Ö´P ƒĞ "%õÀEagerCopyToDeviceHˆÏİÛ´P˜êÔ"0õÀValidateInputTypeAndPlacementHø—çã´PÀœ5"&õÀEagerKernelExecuteHÀº¤å´PØ‚ˆ",õÀKernelAndDeviceFunc::RunHÈ»„æ´PÀÎ¡")õÀTFE_DeleteTensorHandleH˜ÂÎø´PÕQ"õÀtf.constantH¨¸÷‚µP°È¡",õÀTFE_Py_FastPathExecute_CHˆÙ…“µPÀù¤%"@õÀEagerExecuteHÀÁÍœµP¸¾¢Z
+eager_opFillZ
+is_func0"+õÀEagerLocalExecute: FillHˆ±µP¸ÛÅ"%õÀEagerCopyToDeviceHÀÀ¦µPğÜÁ"0õÀValidateInputTypeAndPlacementHàæ«µPÄ-"&õÀEagerKernelExecuteH€ûõ«µPğ½Ú
+",õÀKernelAndDeviceFunc::RunHğŸ£¬µPØ½¶	")õÀTFE_DeleteTensorHandleHø¥ş»µPøÆ")õÀTFE_DeleteTensorHandleHàÆºÁµPàÛT"%õÀconvert_to_tensorHØßìÅµPà¤û",õÀTFE_Py_FastPathExecute_CH¸óòçµPÈƒù("GõÀEagerExecuteHà›Í÷µP¸¡ˆZ
+is_func0Z
+eager_opVarHandleOp"2õÀEagerLocalExecute: VarHandleOpH ö—øµPøç²"$õÀEagerCopyToDeviceHÃÿüµP€å"0õÀValidateInputTypeAndPlacementHØ¤¢€¶PğŸ"&õÀEagerKernelExecuteH˜ÙÏ€¶PèÔã",õÀKernelAndDeviceFunc::RunH¢ş€¶P¸øŒ",õÀTFE_Py_FastPathExecute_CHØ¢’Ë¶Pˆ¨"LõÀEagerExecuteHÀğ³Ô¶PˆŠZ
+is_func0Z
+eager_opAssignVariableOp"7õÀ#EagerLocalExecute: AssignVariableOpHàõÕ¶P¸Á³"%õÀEagerCopyToDeviceHÈÿ©Ú¶PàØÏ"0õÀValidateInputTypeAndPlacementHÈ„Àà¶Pğî>"&õÀEagerKernelExecuteH°­²á¶PÀ…û",õÀKernelAndDeviceFunc::RunHè®ãá¶P å§")õÀTFE_DeleteTensorHandleHÀíàï¶P˜¾<"õÀtf.constantH€éğü·PˆÿÁ&"GõÀEagerExecuteHğ·ã‹¸P°¸¬Z
+eager_op_EagerConstZ
+is_func0"2õÀEagerLocalExecute: _EagerConstH¸ÖÎŒ¸PÈª±"$õÀEagerCopyToDeviceHğå›¸P ¨z"0õÀValidateInputTypeAndPlacementHğ€„•¸PÈü""&õÀEagerKernelExecuteHĞ¾â•¸P¨ï	",õÀKernelAndDeviceFunc::RunHĞé§–¸P°ÜÄ")õÀTFE_DeleteTensorHandleH ¤Ï ¸P:"õÀtf.constantH¸â©¸PĞÔÔ",õÀTFE_Py_FastPathExecute_CHÈñØ¸¸P¸Ëâ"@õÀEagerExecuteH íªÀ¸P¨Ğ‹Z
+is_func0Z
+eager_opFill"+õÀEagerLocalExecute: FillHÀºïÀ¸PÈÙ¿"%õÀEagerCopyToDeviceH¨£‘Ç¸PØœÙ"0õÀValidateInputTypeAndPlacementHÛòË¸PØô"&õÀEagerKernelExecuteHÈ¦µÌ¸PĞ÷æ
+",õÀKernelAndDeviceFunc::RunH€«åÌ¸PÈ¯ô	")õÀTFE_DeleteTensorHandleHâ–Û¸P ")õÀTFE_DeleteTensorHandleHÈÆ›ß¸PèĞ;"%õÀconvert_to_tensorHØ¶Ûâ¸P°¹©",õÀTFE_Py_FastPathExecute_CHÈª÷û¸P€é†"GõÀEagerExecuteHÀÍç†¹P€Ú¯Z
+is_func0Z
+eager_opVarHandleOp"2õÀEagerLocalExecute: VarHandleOpHØ‹¤‡¹PĞ¾ê"$õÀEagerCopyToDeviceHÈèßŠ¹PÈĞ"0õÀValidateInputTypeAndPlacementHèÜ‘¹PàÑ"&õÀEagerKernelExecuteHÀ²¹P˜ºÌ	",õÀKernelAndDeviceFunc::RunHÈ†Í¹PÀ¿»",õÀTFE_Py_FastPathExecute_CH ‡ÀÁ¹PÚ·"LõÀEagerExecuteHèÆÈ¹PĞ±›Z
+is_func0Z
+eager_opAssignVariableOp"7õÀ#EagerLocalExecute: AssignVariableOpHÈÛĞÈ¹PàÍ"%õÀEagerCopyToDeviceHğû§Ì¹Pøüí"0õÀValidateInputTypeAndPlacementH˜šÓĞ¹P¨Ë("&õÀEagerKernelExecuteHØ†˜Ñ¹PÈßğ",õÀKernelAndDeviceFunc::RunHĞç¾Ñ¹PÀ„®")õÀTFE_DeleteTensorHandleH°øÜ¹Pˆù8"õÀtf.constantH€˜•ÇºPÈÇ¹"GõÀEagerExecuteH ÉîÑºPˆîëZ
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstH¶ÒºPÈ®˜"$õÀEagerCopyToDeviceHÀıŞÔºP˜Ş["0õÀValidateInputTypeAndPlacementHÈšƒØºP€"&õÀEagerKernelExecuteH€û¾ØºPØ‰ı",õÀKernelAndDeviceFunc::RunHÈ÷áØºPÈ…‘")õÀTFE_DeleteTensorHandleHğ¿ößºPë "õÀtf.constantHøãååºP¸ñÓ",õÀTFE_Py_FastPathExecute_CHğÚ½ïºP€ùò"@õÀEagerExecuteH¸©ôºP€à¶Z
+eager_opFillZ
+is_func0"+õÀEagerLocalExecute: FillHè•¸ôºPèƒ„"%õÀEagerCopyToDeviceHÀàÏøºPØª"0õÀValidateInputTypeAndPlacementH ‘ÖûºPèÔ"&õÀEagerKernelExecuteH˜à‚üºPÀ–¨",õÀKernelAndDeviceFunc::RunHØÍüºPÈ°Ù")õÀTFE_DeleteTensorHandleH Šç„»PØª")õÀTFE_DeleteTensorHandleHˆÇö‡»P€À>"%õÀconvert_to_tensorH€¢–‹»PˆŒ÷",õÀTFE_Py_FastPathExecute_CHˆÙŸ¢»PÀğÑ"GõÀEagerExecuteHØŞ±«»PĞèâZ
+is_func0Z
+eager_opVarHandleOp"2õÀEagerLocalExecute: VarHandleOpH¸¦ã«»PÛ¨"$õÀEagerCopyToDeviceH˜˜ş®»PÀ¬"0õÀValidateInputTypeAndPlacementHğˆ±»P°ä"&õÀEagerKernelExecuteH¸¶¢±»P¨ğÚ",õÀKernelAndDeviceFunc::RunHĞà»±»PĞ­á",õÀTFE_Py_FastPathExecute_CHĞÈ¼İ»P€•À"LõÀEagerExecuteHğè€ã»P°ÜµZ
+eager_opAssignVariableOpZ
+is_func0"7õÀ#EagerLocalExecute: AssignVariableOpH°…¶ã»P¸Éõ"%õÀEagerCopyToDeviceHˆìæ»P¸†Ö"0õÀValidateInputTypeAndPlacementHÈ¡•ê»PØÊ#"&õÀEagerKernelExecuteHØ²Óê»P€‡Å",õÀKernelAndDeviceFunc::RunHèšõê»PÈŒ")õÀTFE_DeleteTensorHandleHğÌ€ô»P¸¥%"õÀtf.constantHğºİÔ¼PèÁû"GõÀEagerExecuteH¨åŞ¼PèÂõ
+Z
+eager_op_EagerConstZ
+is_func0"2õÀEagerLocalExecute: _EagerConstH ïÒŞ¼Pà‹§
+"$õÀEagerCopyToDeviceHøŠÖà¼P¨ÓO"0õÀValidateInputTypeAndPlacementH°œÏã¼P°É"&õÀEagerKernelExecuteHà‘÷ã¼PØ³ò",õÀKernelAndDeviceFunc::RunH ç™ä¼P¨õ")õÀTFE_DeleteTensorHandleHèÒ†ê¼Pøş"õÀtf.constantHÀèï¼P°˜º",õÀTFE_Py_FastPathExecute_CHØ‹ªù¼Pøàğ"@õÀEagerExecuteH˜ä¿ı¼P˜¿ëZ
+eager_opFillZ
+is_func0"+õÀEagerLocalExecute: FillH¶ëı¼P ˆ·"%õÀEagerCopyToDeviceHàÈ½Pø½…"0õÀValidateInputTypeAndPlacementH¸ Ë„½P¸í"&õÀEagerKernelExecuteHèğ„½Pˆ‘¢",õÀKernelAndDeviceFunc::RunHèÁ…½PØ¨Ì")õÀTFE_DeleteTensorHandleH˜æ¸½PØª")õÀTFE_DeleteTensorHandleH»Ú½PàÄ2"%õÀconvert_to_tensorH˜€È“½Pàõæ",õÀTFE_Py_FastPathExecute_CHø¼ª½PĞùë"GõÀEagerExecuteHøÈï²½PÈé«Z
+eager_opVarHandleOpZ
+is_func0"2õÀEagerLocalExecute: VarHandleOpHĞï³½PˆÙò"$õÀEagerCopyToDeviceHˆ¿­¶½Pˆ’"0õÀValidateInputTypeAndPlacementHğ«°¸½PøÌ"&õÀEagerKernelExecuteH˜¤Ê¸½Pøè¸",õÀKernelAndDeviceFunc::RunHğ˜à¸½PÈ¨¬",õÀTFE_Py_FastPathExecute_CHà’Äã½PÛ™"LõÀEagerExecuteHˆ×‰é½P †Z
+is_func0Z
+eager_opAssignVariableOp"7õÀ#EagerLocalExecute: AssignVariableOpHÀÏ½é½PğÕÏ"%õÀEagerCopyToDeviceH¨Æì½Pè‚Ò"0õÀValidateInputTypeAndPlacementH°ˆüï½P°„#"&õÀEagerKernelExecuteHğ¸ğ½P°ıÂ",õÀKernelAndDeviceFunc::RunHøÓØğ½Pğæ‹")õÀTFE_DeleteTensorHandleHØá®ù½P¸«#"&õÀconvert_to_tensorHğ¤®î¾PğâÉÈ"&õÀconvert_to_tensorHøü›Ş¿P˜Ùˆµ"&õÀconvert_to_tensorH€ÃåÕÂPĞ´¸ó"&õÀconvert_to_tensorHøñĞ„ÅP˜•ê‹"&õÀconvert_to_tensorHèÀüôÈPĞ”æ†"&õÀconvert_to_tensorHØúÑŒÊP˜ºÎ¯"&õÀconvert_to_tensorHğ¹¡ÎPàà’Ä"&õÀconvert_to_tensorH¼Ò¢ÏP¨ƒÈ¤"&õÀconvert_to_tensorHˆõ‹¦ÒPØ…ÓÈ"%õÀconvert_to_tensorHĞÖ†ÚÔPà÷˜"%õÀconvert_to_tensorH¨î¶…ÕP¸‡"%õÀconvert_to_tensorH˜õ´’×Pèı£"%õÀconvert_to_tensorH°—ÙPĞ÷ş"%õÀconvert_to_tensorHˆüê¶ÙP€Ÿº"%õÀconvert_to_tensorHÈˆ´ºÛP¸»ë"%õÀconvert_to_tensorHˆÄ½áÛPø•°"%õÀconvert_to_tensorHĞïÜåİPàÈş"%õÀconvert_to_tensorHĞéİŞPØÂê"%õÀconvert_to_tensorHÈ×ˆ£àPÈ±²"%õÀconvert_to_tensorHğ‹…ĞàPè¼†"%õÀconvert_to_tensorH˜ù•êâP¼ı"%õÀconvert_to_tensorH°ÕÓãPÈû½"%õÀconvert_to_tensorHÀÅ“‹æPè¬¾"%õÀconvert_to_tensorHˆøÚóçPØ¬¤"&õÀconvert_to_tensorH°ßó‘èPØ‹À"&õÀconvert_to_tensorHÈ‚ÁëPĞš×½"&õÀconvert_to_tensorHÀ§À‘îP¨Ãëª"%õÀconvert_to_tensorH˜ÓÓòñPĞÿ¢"%õÀconvert_to_tensorHÈ¬ûƒòPàÇ«"%õÀconvert_to_tensorHà¤§ŸòP°Æø"%õÀconvert_to_tensorH¨İ†¯òP˜¼"%õÀconvert_to_tensorHà¥‹¸öP˜¤Œ"&õÀconvert_to_tensorHèš³ÌöPĞµã¶"%õÀconvert_to_tensorH¥’¢üP ¬Ã"&õÀconvert_to_tensorHˆ…âÌüPĞÑÌƒ"%õÀconvert_to_tensorHî×ÎˆPÈëÑ"%õÀconvert_to_tensorH¸¶³èˆP€…¢"%õÀconvert_to_tensorH€×©óˆPøÚ™"%õÀconvert_to_tensorH¨Ñ‰‹PĞÕ³"&õÀconvert_to_tensorHğ™½œ‹P µƒ¿"%õÀconvert_to_tensorHÀ¦àPè¨à"%õÀconvert_to_tensorH É”êPÀÿ…"&õÀconvert_to_tensorHĞì¸‚P ŒÇŸ"%õÀconvert_to_tensorH°·«á“P Ú"%õÀconvert_to_tensorH˜›§ôÃPÈ­×"%õÀconvert_to_tensorHÈ…ÊÆPˆãŞW"õÀtf.constantH¸ŸéØÆPØ™ˆF"GõÀEagerExecuteH˜÷ ñÆPÈ©Ÿ&Z
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstHĞ–ÂóÆPè…è#"%õÀEagerCopyToDeviceHğäúÆP çâ"0õÀValidateInputTypeAndPlacementHÈ™„ƒÇP£8"&õÀEagerKernelExecuteHà¬„ÇPø·Ñ",õÀKernelAndDeviceFunc::RunHÈé…ÇPğØ")õÀTFE_DeleteTensorHandleHÈÑÓšÇP˜®k"%õÀconvert_to_tensorHæÊ¦ÇPÀ’š"õÀtf.constantH¨Ş¬°ÇP˜¢Ú"%õÀconvert_to_tensorH íçÀÇP¸ï†"õÀtf.constantHØªóÆÇP¸´‘",õÀTFE_Py_FastPathExecute_CHğÁıÛÇP¸İ¡	"%õÀconvert_to_tensorHĞÕ†ıÇP Ñ†0"õÀtf.constantH€õüˆÈPœş!"GõÀEagerExecuteHˆ‘³”ÈPˆ¢Z
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstHÈÿ •ÈP°èŸ"%õÀEagerCopyToDeviceH€¤ç˜ÈPà¼ˆ"0õÀValidateInputTypeAndPlacementHØ½¸ÈP¨Ô%"&õÀEagerKernelExecuteHÈÃ™ÈPøò…	",õÀKernelAndDeviceFunc::RunHˆÚĞÈPˆÑÚ")õÀTFE_DeleteTensorHandleH ñû¨ÈPøÎ,",õÀTFE_Py_ExecuteCancelableH˜İ˜¹ÈPøß…"XõÀEagerExecuteHØ¡…¿ÈPÈ€¿Z(
+eager_opStatelessRandomGetKeyCounterZ
+is_func0"CõÀ/EagerLocalExecute: StatelessRandomGetKeyCounterH°³»¿ÈPà»ÿ"%õÀEagerCopyToDeviceH€Ä…ÃÈP˜é"0õÀValidateInputTypeAndPlacementHèşèÆÈPÀğ"&õÀEagerKernelExecuteHÈ½ÇÈPˆ©‹
+",õÀKernelAndDeviceFunc::RunH¸ôÄÇÈPÀè×")õÀTFE_DeleteTensorHandleH õÀ×ÈPØŸ[".õÀTFE_Py_FastPathExecute_CH¸ÑÜÈPØ³ú»Ë")õÀTFE_DeleteTensorHandleH¸›ÕçÈPÈÜ"VõÀEagerExecuteH¨¯ÛèÈPˆé™ªËZ
+is_func0Z$
+eager_opStatelessRandomUniformV2"AõÀ+EagerLocalExecute: StatelessRandomUniformV2H Ú“éÈP¨š—©Ë"%õÀEagerCopyToDeviceHØ¨ÉíÈPø«ˆ"0õÀValidateInputTypeAndPlacementHàìÚòÈP°±"(õÀEagerKernelExecuteHğ›óÈPèßŒË".õÀKernelAndDeviceFunc::RunHàŞ²óÈP°ÀîšË",õÀTFE_Py_FastPathExecute_CHøŸ·¿”P¸¨ç="?õÀEagerExecuteH˜ÃÓÑ”Púš*Z
+is_func0Z
+eager_opSub"*õÀEagerLocalExecute: SubHĞÀ¬Ó”P€í´("%õÀEagerCopyToDeviceHğÑæİ”PĞâ…"0õÀValidateInputTypeAndPlacementH€Ë‘ç”P¸ÅD"&õÀEagerKernelExecuteHğ‰İè”PÈùê",õÀKernelAndDeviceFunc::RunH¨Ûé”P¸Éæ"-õÀTFE_Py_FastPathExecute_CHĞ©Ç’•PĞŠøÖ"@õÀEagerExecuteHÈ¾™•Pà™·ÉZ
+is_func0Z
+eager_opMul"+õÀEagerLocalExecute: MulHˆ«ã™•PĞ‡¦È"%õÀEagerCopyToDeviceHøöô•PÀ¥¯"0õÀValidateInputTypeAndPlacementH°İ¢£•P¨×$"'õÀEagerKernelExecuteH°üë£•PĞĞ…½"-õÀKernelAndDeviceFunc::RunHØ”¥¤•PˆÊ›¹"*õÀTFE_DeleteTensorHandleHĞÁ»õ¬PĞ½¾"%õÀconvert_to_tensorH ¶É­P ‰œ"%õÀconvert_to_tensorHÀÜá°­Pèƒ¢"-õÀTFE_Py_FastPathExecute_CH¨ê¾»­PØµ§"BõÀEagerExecuteH¸Ş£Î­PàÄôZ
+eager_opAddV2Z
+is_func0"-õÀEagerLocalExecute: AddV2HÈÍ“Ğ­PÀâ¼‹"%õÀEagerCopyToDeviceH°¹¥Û­Pÿº"0õÀValidateInputTypeAndPlacementH€½‹å­PÀ–7"'õÀEagerKernelExecuteHàø½æ­PˆÛ‚å"-õÀKernelAndDeviceFunc::RunHØ¨ç­P°ğà"+õÀTFE_DeleteTensorHandleHĞß¯ìËPÀà…¢
+"*õÀTFE_DeleteTensorHandleHÀ® ±ÖP°œ•")õÀTFE_DeleteTensorHandleHØ…¢´ÖP¸Ş")õÀTFE_DeleteTensorHandleH¸ßÍ´ÖPˆ†")õÀTFE_DeleteTensorHandleH°ø‹µÖPÈ")õÀTFE_DeleteTensorHandleHˆğ¶ÖP€¹j"+õÀTFE_DeleteTensorHandleH€Æ›·ÖP°«š·	"%õÀconvert_to_tensorHè‹ê†àP¨®´",õÀTFE_Py_FastPathExecute_CHÀÑûÒàPˆ“ŞR"GõÀEagerExecuteHèñûòàPØ·À0Z
+is_func0Z
+eager_opVarHandleOp"2õÀEagerLocalExecute: VarHandleOpH¨‚¯õàP¨¥ş-"$õÀEagerCopyToDeviceH°­ãÿàP’"0õÀValidateInputTypeAndPlacementH¨ğş†áP›"&õÀEagerKernelExecuteH˜‡„ˆáPÈøü",õÀKernelAndDeviceFunc::RunH âˆáPˆ‡–",õÀTFE_Py_FastPathExecute_CHÀò’˜âP ¼–-"LõÀEagerExecuteH˜¯ç¥âPĞß²Z
+eager_opAssignVariableOpZ
+is_func0"7õÀ#EagerLocalExecute: AssignVariableOpHØ«ú¦âPˆ„ˆ"%õÀEagerCopyToDeviceH€¥®âP€†ò"0õÀValidateInputTypeAndPlacementHÈÿ‘·âPÀ¿S"&õÀEagerKernelExecuteHèÜ¤¸âPèíº",õÀKernelAndDeviceFunc::RunH “î¸âPèü¸
+")õÀTFE_DeleteTensorHandleHˆÂ¢ÍâP¨öm"õÀtf.constantHøŒÜ£äPè¾œ6"GõÀEagerExecuteH¸Òå»äPèÄ÷Z
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstH ¹í¼äPàèá"%õÀEagerCopyToDeviceH˜¼ĞÁäP°ì§"0õÀValidateInputTypeAndPlacementHØ»ÓÇäP€%"&õÀEagerKernelExecuteHØñ¾ÈäPà•÷
+",õÀKernelAndDeviceFunc::RunH …„ÉäPÀëÓ	")õÀTFE_DeleteTensorHandleH˜ƒ¤ÖäPÀ´-"õÀtf.constantHà®ÀáäPĞŸ¹",õÀTFE_Py_FastPathExecute_CHßËòäPğªüb"@õÀEagerExecuteHàÅ”ûäPèáÑXZ
+eager_opFillZ
+is_func0"+õÀEagerLocalExecute: FillHğåÍûäP€©X"%õÀEagerCopyToDeviceHØĞú‹åP¸­É"0õÀValidateInputTypeAndPlacementH˜ÑÖåPØâ"&õÀEagerKernelExecuteHÈø—‘åPğØ¦B",õÀKernelAndDeviceFunc::RunH¸‚Î‘åPÈ–ş@")õÀTFE_DeleteTensorHandleHğ¯¼ÚåPøÆ")õÀTFE_DeleteTensorHandleH¨¹…àåP€¹j"%õÀconvert_to_tensorHà‡µæåPĞÄı",õÀTFE_Py_FastPathExecute_CHÈ­¶ŒæP°Ë)"GõÀEagerExecuteH°ÁœæP˜æºZ
+eager_opVarHandleOpZ
+is_func0"2õÀEagerLocalExecute: VarHandleOpHÀîŠæPàÖä"$õÀEagerCopyToDeviceH°Š¬¢æPÀ 
+"0õÀValidateInputTypeAndPlacementH˜éƒ¦æP¼"&õÀEagerKernelExecuteHğÇ¦æP¸Ú“",õÀKernelAndDeviceFunc::RunHè¢ó¦æP°öÖ",õÀTFE_Py_FastPathExecute_CH¸ĞÿòæP¸Ğ"LõÀEagerExecuteHÈ²ˆüæP üŸZ
+is_func0Z
+eager_opAssignVariableOp"7õÀ#EagerLocalExecute: AssignVariableOpHèŞ×üæPÀÁÀ"%õÀEagerCopyToDeviceHß‰‚çPÀİ"0õÀValidateInputTypeAndPlacementHØ«ªˆçP:"&õÀEagerKernelExecuteHèß†‰çPÀÿü",õÀKernelAndDeviceFunc::RunHÈ˜½‰çP€Ì¥")õÀTFE_DeleteTensorHandleHĞÜ³—çPèè3"%õÀconvert_to_tensorHø‘İ¤èPğ÷²"&õÀconvert_to_tensorHĞÛ«èPóà¿"&õÀconvert_to_tensorHøƒ‡ÛéPÈ£ğÜ"%õÀconvert_to_tensorHğÇ¶ëíPğÏé"%õÀconvert_to_tensorHÀ’Ã˜îP…°"%õÀconvert_to_tensorHÈ€ßğPˆâ"&õÀconvert_to_tensorHà“Ä•ğP “ô¢"&õÀconvert_to_tensorHø½ñP‚ÓË"%õÀconvert_to_tensorHğË¼™õPÈÄ‚"%õÀconvert_to_tensorHÀÇŒÇõPâ‘"%õÀconvert_to_tensorHà¥ÊöøPÑó"%õÀconvert_to_tensorHà‘ü¤üPø¼¦"&õÀconvert_to_tensorHŒœµüPàşÏÜ"%õÀconvert_to_tensorHéøúP˜Îõ"%õÀconvert_to_tensorHàñƒ†‚P°˜·"%õÀconvert_to_tensorHĞ¶ïÉ„P â´"õÀtf.constantH€–ââ‡PØÈœH"GõÀEagerExecuteH€×¨ü‡Pà¹”'Z
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstHØ§Äş‡PØ±æ$"%õÀEagerCopyToDeviceHÈ Á…ˆPğÉñ"0õÀValidateInputTypeAndPlacementHˆíËˆP å<"&õÀEagerKernelExecuteH°‚ƒˆPÀ½ñ",õÀKernelAndDeviceFunc::RunH„õˆP°üÈ")õÀTFE_DeleteTensorHandleH¨Û½¦ˆPØœ\"õÀtf.constantHˆë°³ˆPØ˜ò",õÀTFE_Py_FastPathExecute_CH¼êÅˆP°ÓØ+"@õÀEagerExecuteH€üêÑˆPø¹ÙZ
+eager_opFillZ
+is_func0"+õÀEagerLocalExecute: FillHÀ‚ÑÒˆP¸Ñé"%õÀEagerCopyToDeviceH¸Ş±ÜˆPÀ÷ç"0õÀValidateInputTypeAndPlacementH  ãáˆPØ£0"&õÀEagerKernelExecuteHĞŞÆâˆP°‚Ó",õÀKernelAndDeviceFunc::RunH¨Ş‚ãˆP ˜‹")õÀTFE_DeleteTensorHandleHğç¾õˆPèø")õÀTFE_DeleteTensorHandleHø±ûˆPĞÈj"%õÀconvert_to_tensorH ï¿€‰PĞ³Ù"-õÀTFE_Py_FastPathExecute_CH¸¿§‰PğÁÄÃ>"HõÀEagerExecuteHôœº‰P°²©«>Z
+eager_opVarHandleOpZ
+is_func0"3õÀEagerLocalExecute: VarHandleOpHĞ‰şº‰P˜·­ª>"$õÀEagerCopyToDeviceH˜ôˆÅ‰P ã"0õÀValidateInputTypeAndPlacementHöƒ“ÇP°ï)"&õÀEagerKernelExecuteHúÒ”ÇPÀúöO",õÀKernelAndDeviceFunc::RunHàÇå•ÇPˆÅ°@"-õÀTFE_Py_FastPathExecute_CHÈÍÒŞÈP˜ÛŞ"MõÀEagerExecuteH Ç×ñÈP°Ì€ÈZ
+eager_opAssignVariableOpZ
+is_func0"8õÀ#EagerLocalExecute: AssignVariableOpH°±ŸóÈPà­‹Æ"%õÀEagerCopyToDeviceHğ¯ÉúÈPĞç­"0õÀValidateInputTypeAndPlacementH¨¼ü÷ÍPˆïe"&õÀEagerKernelExecuteHÈáùÍPĞ«Š?",õÀKernelAndDeviceFunc::RunH¸ş÷úÍPĞóœ1")õÀTFE_DeleteTensorHandleH€®…ĞÎPÚy"õÀtf.constantH ¿ÜôĞP˜¥±>"GõÀEagerExecuteH€§åŒÑP°ìÊZ
+eager_op_EagerConstZ
+is_func0"2õÀEagerLocalExecute: _EagerConstHàİìÑPø±²"%õÀEagerCopyToDeviceHğ»”ÑP¨îÃ"0õÀValidateInputTypeAndPlacementH˜³Û›ÑPèÖ9"&õÀEagerKernelExecuteHàÁõœÑP ìã",õÀKernelAndDeviceFunc::RunH¸ÛÒÑP¨Ë")õÀTFE_DeleteTensorHandleHøåÚ®ÑPèQ"õÀtf.constantHˆÔĞ¼ÑP€¼Ñ",õÀTFE_Py_FastPathExecute_CHğ…‡ĞÑPàÿÇ*"@õÀEagerExecuteH¨ÌıÛÑP€à†Z
+eager_opFillZ
+is_func0"+õÀEagerLocalExecute: FillHˆ±ÏÜÑPàİ©"%õÀEagerCopyToDeviceH€ŸªæÑP«Ü"0õÀValidateInputTypeAndPlacementH€»åëÑPè¤ "&õÀEagerKernelExecuteHà“»ìÑP°¡Ÿ",õÀKernelAndDeviceFunc::RunHøéïìÑP°Ÿù
+")õÀTFE_DeleteTensorHandleH çûşÑPĞı")õÀTFE_DeleteTensorHandleHÀ‡½…ÒP ‚]"%õÀconvert_to_tensorHÈ¿Ï‹ÒP¨ª˜	",õÀTFE_Py_FastPathExecute_CHÀçŠµÒP¸ßÛ-"GõÀEagerExecuteHÀ”ÃÇÒPĞº÷Z
+is_func0Z
+eager_opVarHandleOp"2õÀEagerLocalExecute: VarHandleOpHğçŸÈÒPØ¥"$õÀEagerCopyToDeviceHàÛ÷ÍÒP¨¢"0õÀValidateInputTypeAndPlacementHàÓÄÑÒPèõ"&õÀEagerKernelExecuteH˜ÛóÑÒPØÃ¢",õÀKernelAndDeviceFunc::RunH æ¦ÒÒP€Î¼",õÀTFE_Py_FastPathExecute_CHèçæ©ÓPÈŠÜ#"LõÀEagerExecuteHøÀì´ÓPˆèÌZ
+is_func0Z
+eager_opAssignVariableOp"7õÀ#EagerLocalExecute: AssignVariableOpHÎµÓPğÈÜ"%õÀEagerCopyToDeviceHÀ€»»ÓP¨íê"0õÀValidateInputTypeAndPlacementH°ÕÃÂÓP ÄG"&õÀEagerKernelExecuteH¸—¸ÃÓPÀè×",õÀKernelAndDeviceFunc::RunH€ÕïÃÓPĞÙù")õÀTFE_DeleteTensorHandleH ûÔÓPğ¾N"õÀtf.constantH°×öÕPàşå."GõÀEagerExecuteH°Ï“£ÕPøÏÀZ
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstHÀùœ¤ÕP€Ñ¦"%õÀEagerCopyToDeviceHèÊ·¨ÕP¨¢‰"0õÀValidateInputTypeAndPlacementHØè®ÕPˆÓ"&õÀEagerKernelExecuteHİà®ÕP¸îÅ	",õÀKernelAndDeviceFunc::RunHø˜£¯ÕPè»ª")õÀTFE_DeleteTensorHandleHè›äºÕPˆù8"õÀtf.constantHØù×ÇÕP¨Úˆ	",õÀTFE_Py_FastPathExecute_CHÀóöÚÕPàë³%"@õÀEagerExecuteH ÈßãÕP¸ïåZ
+eager_opFillZ
+is_func0"+õÀEagerLocalExecute: FillH¸Ê¯äÕP°â‰"%õÀEagerCopyToDeviceHˆòŒíÕP¸ëŞ"0õÀValidateInputTypeAndPlacementHÈ«ÓòÕP˜§"&õÀEagerKernelExecuteHèæóÕP€—",õÀKernelAndDeviceFunc::RunHèÄÒóÕP€‰ß	")õÀTFE_DeleteTensorHandleHÈœŸ…ÖPØ")õÀTFE_DeleteTensorHandleHğ¸˜ŒÖPàïw"%õÀconvert_to_tensorHĞŠˆ“ÖPº¼
+",õÀTFE_Py_FastPathExecute_CH¸ÒË»ÖP íÜ,"GõÀEagerExecuteH€·ÃÌÖPà¿¹Z
+eager_opVarHandleOpZ
+is_func0"2õÀEagerLocalExecute: VarHandleOpHàñ¢ÍÖPˆÓÍ"$õÀEagerCopyToDeviceHÈç–ÓÖPÀš"0õÀValidateInputTypeAndPlacementH¨éÿÖÖPˆ•"&õÀEagerKernelExecuteHˆ¥µ×ÖPØÀ£",õÀKernelAndDeviceFunc::RunHğŠê×ÖPˆ¹",õÀTFE_Py_FastPathExecute_CHø²»¬×Pàş‰#"LõÀEagerExecuteH˜ê’·×P€ı¸Z
+is_func0Z
+eager_opAssignVariableOp"7õÀ#EagerLocalExecute: AssignVariableOpH¸›Š¸×P¸¬´"%õÀEagerCopyToDeviceH˜§½¾×PĞ³ë"0õÀValidateInputTypeAndPlacementHøº—Å×Pğı9"&õÀEagerKernelExecuteH˜¢ıÅ×PÈŸ©",õÀKernelAndDeviceFunc::RunHÖ²Æ×P ùÊ")õÀTFE_DeleteTensorHandleH¸¤­Õ×PÀ™6"õÀtf.constantHˆÕ¤ûØPØ“ç'"GõÀEagerExecuteHğ˜Ş‹ÙPèˆZ
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstH ›ÕŒÙP°‰˜"$õÀEagerCopyToDeviceH ´—ÙP Àr"0õÀValidateInputTypeAndPlacementHˆÆÛ”ÙPÈ©"&õÀEagerKernelExecuteHÈ¬¢•ÙPè´",õÀKernelAndDeviceFunc::RunHÈÕ•ÙPÈº£")õÀTFE_DeleteTensorHandleHàƒŒ ÙPğŒ5"õÀtf.constantHà¸†ªÙP€ó˜",õÀTFE_Py_FastPathExecute_CHàçğ¹ÙP€Ë„ "@õÀEagerExecuteHÀÎÖÁÙPè¯Z
+eager_opFillZ
+is_func0"+õÀEagerLocalExecute: FillHØôšÂÙPàû±"%õÀEagerCopyToDeviceHè±ßÉÙPˆ¾"0õÀValidateInputTypeAndPlacementH¸²ÎÙPøŠ"&õÀEagerKernelExecuteHØè÷ÎÙP ”¼	",õÀKernelAndDeviceFunc::RunH€–ªÏÙP˜ö»")õÀTFE_DeleteTensorHandleHÀÔıİÙP€è")õÀTFE_DeleteTensorHandleH°àÍãÙP«_"%õÀconvert_to_tensorHĞãñèÙP°Øì",õÀTFE_Py_FastPathExecute_CH¨ìÁ‹ÚP¸®­&"GõÀEagerExecuteH¨±ş™ÚP°ïäZ
+eager_opVarHandleOpZ
+is_func0"2õÀEagerLocalExecute: VarHandleOpHÀ¶ÍšÚP¸­Š"$õÀEagerCopyToDeviceHÈÅÆŸÚPÀš"0õÀValidateInputTypeAndPlacementHğ±Û¢ÚP˜æ"&õÀEagerKernelExecuteH²£ÚPÀ±",õÀKernelAndDeviceFunc::RunH ù»£ÚPÀüñ",õÀTFE_Py_FastPathExecute_CH¨ëçÚPè©ñ"LõÀEagerExecuteH˜ºÖğÚPàù‘Z
+is_func0Z
+eager_opAssignVariableOp"7õÀ#EagerLocalExecute: AssignVariableOpH€ÀªñÚPğù®"%õÀEagerCopyToDeviceH€ëãõÚP¨ÁÏ"0õÀValidateInputTypeAndPlacementHè§êûÚPøÚ("&õÀEagerKernelExecuteHˆİ¶üÚPà‰‡",õÀKernelAndDeviceFunc::RunH ¶êüÚPğâ°")õÀTFE_DeleteTensorHandleHÈØÌŠÛP˜µ?"&õÀconvert_to_tensorHĞìÇìÜPè³Æ¹"&õÀconvert_to_tensorH¸ÚÆˆŞPÈ«…ã"&õÀconvert_to_tensorH˜Ú¨ËáPàÔßÿ"&õÀconvert_to_tensorH¼õ×âPàù“¹"&õÀconvert_to_tensorH¨¬èïåP ®µ´"&õÀconvert_to_tensorH¨™Ÿ¾çP€Éõ½"&õÀconvert_to_tensorH¸Œ´ÆêPĞ·ú¶"&õÀconvert_to_tensorHèÈîÃëP€÷µ"&õÀconvert_to_tensorHèò¶ÅïPèøüÒ"%õÀconvert_to_tensorH€Œª“òPàğÍ}"%õÀconvert_to_tensorHøÓÎËóP Ÿå"%õÀconvert_to_tensorHĞ¡´€÷Pğ½é"%õÀconvert_to_tensorHğÕƒûPè”Ã"%õÀconvert_to_tensorHøçî´ûP¨ÒÉ"%õÀconvert_to_tensorHÀÔ„ÀşP¸º’"%õÀconvert_to_tensorHè’×ëşP°¥†"%õÀconvert_to_tensorH š¹ÒPÈÊı"%õÀconvert_to_tensorHÈÇ€‚P˜ ´"%õÀconvert_to_tensorH¨Ø‹º„P¸ñÖ"%õÀconvert_to_tensorHÛÖç„PÀÌ“"%õÀconvert_to_tensorHÈ‹ğÅ‡P¸Êà"%õÀconvert_to_tensorH¨¹áù‡Pˆå€"%õÀconvert_to_tensorHÈæãÏ‹Pè™î"%õÀconvert_to_tensorH€æšäPğú±"%õÀconvert_to_tensorHÈËÂÔP Àì"0õÀtf.function-graph_buildingHÀ–ıöõPˆ¥ôÆê"&õÀconvert_to_tensorHˆÉµÕüPø¤ßÄ"%õÀconvert_to_tensorH¸‡†€ÿP˜‰"%õÀconvert_to_tensorH€ò„ÿPğÎ™"&õÀconvert_to_tensorH¨é©ÿPØä±­"%õÀconvert_to_tensorHˆÙƒPÈ•å"%õÀconvert_to_tensorHøƒš„P Øä"%õÀconvert_to_tensorHğ½´÷„P½Ó"%õÀconvert_to_tensorHğºÈÁ†PÈ¼Û"%õÀconvert_to_tensorHĞª‹¡‰Pø—Í	"%õÀconvert_to_tensorH©µ‰P°¼´"%õÀconvert_to_tensorHøÏò£ŒP°—"%õÀconvert_to_tensorH€œÂÅPˆëŠ"%õÀconvert_to_tensorH˜ÎÏĞPèáÖ"&õÀconvert_to_tensorH İ­ŞPøû·"%õÀconvert_to_tensorHğİë“PÀ‘†"%õÀconvert_to_tensorHè¸Ö§•PĞÑá"%õÀconvert_to_tensorHøüı£—Pˆÿ"&õÀconvert_to_tensorHÈñšÇ—P˜Î¦"%õÀconvert_to_tensorHğü«¨Pè‡å"%õÀconvert_to_tensorH°¸÷¹PÀ…"%õÀconvert_to_tensorHÀÏ˜ÃP€ğŸ"%õÀconvert_to_tensorHğ„•ŸPÀ "%õÀconvert_to_tensorHÃ£ôŸP°“˜"%õÀconvert_to_tensorHØˆúÊ P ˜¦"%õÀconvert_to_tensorHØÏÒ„¢Pèè­"%õÀconvert_to_tensorHÀåÌ¶¤P€›Ù	"%õÀconvert_to_tensorHè§¼Ê¤PØñ"%õÀconvert_to_tensorH Äë•§PØòã"%õÀconvert_to_tensorH˜ïá¥©Pè·ç"%õÀconvert_to_tensorHøàÔÜªP ½í"%õÀconvert_to_tensorHèû¬P€È"%õÀconvert_to_tensorH öå´®P˜½×"%õÀconvert_to_tensorHàšÃÿ±Pøùè"%õÀconvert_to_tensorHØÃÌş²Pğ™ş"&õÀconvert_to_tensorH¨Ú‹…³P¨Şşñ"&õÀconvert_to_tensorHÀİø”´P€Ú¢»"%õÀconvert_to_tensorH¸õçİ·PÈñó"%õÀconvert_to_tensorH˜©„¸P€°Ş"%õÀconvert_to_tensorH•´İ¹PÈ¼Û"&õÀconvert_to_tensorHĞÉÒâ¹P˜Ş¥‰"&õÀconvert_to_tensorH¸Ç²ÏºP˜”‘"%õÀconvert_to_tensorH€ş³½½P˜–í"%õÀconvert_to_tensorH°Ôè½P€ÚĞ"%õÀconvert_to_tensorH°ş»ø¿PĞûÓ"%õÀconvert_to_tensorH ä ‘ÂP€›î"&õÀconvert_to_tensorHø¾îÂPÀÃ¶¢"%õÀconvert_to_tensorHĞßÔªÆP¸°¹"%õÀconvert_to_tensorH¸ôˆ´ÆP¸´‘"%õÀconvert_to_tensorHàÃ§£ÈPˆâ"&õÀconvert_to_tensorHÀ÷‡ÙÉP˜æÏˆ"&õÀconvert_to_tensorHğÈúÁÊPğ‘’–"&õÀconvert_to_tensorH¸ÀüÌPˆïôò"&õÀconvert_to_tensorHèŒ€ãÍPØô÷†"&õÀconvert_to_tensorHœµ‰ĞP İñ‚"&õÀconvert_to_tensorHÀÏıĞPØ ‡‹"&õÀconvert_to_tensorH«¸§ÓP˜à™ñ"&õÀconvert_to_tensorHøïÂŒÔP€Áù…"&õÀconvert_to_tensorHˆ³¿ÎÖP¸õ¤¬"%õÀconvert_to_tensorH€…ÖÏØP°Ğ×"%õÀconvert_to_tensorHµå÷ØP€ŠÁ"%õÀconvert_to_tensorHğË¬şÚPĞ÷"%õÀconvert_to_tensorHˆ‰ï„İPøå"%õÀconvert_to_tensorHÀğ†¬İPğÙ¶"%õÀconvert_to_tensorHˆíö¶ßPØ®Ğ"%õÀconvert_to_tensorHğßˆİßPà£®"%õÀconvert_to_tensorHÈƒÎĞáPà¨ß"%õÀconvert_to_tensorHèäÀ÷áP¨¬Í"%õÀconvert_to_tensorHĞ™ĞçãPè…Î"%õÀconvert_to_tensorHĞ“İäP ô¨"%õÀconvert_to_tensorH°È…›æPØéæ"%õÀconvert_to_tensorH¸öáÁæPà“İ"%õÀconvert_to_tensorH ÅîèPˆú"%õÀconvert_to_tensorHàı´ËêPĞº¿"&õÀconvert_to_tensorH€âêP°ÑÇ "&õÀconvert_to_tensorHè’ò‰ìP°ÙË"&õÀconvert_to_tensorH¨®ÆŞíP°¶±"%õÀconvert_to_tensorH€íşüïPˆ»"%õÀconvert_to_tensorH€ì‡ˆğPè“ö"%õÀconvert_to_tensorHğœïğPğÊ"%õÀconvert_to_tensorH˜ÄüªğPøÿã"%õÀconvert_to_tensorH€„¶íòP¨²Ô"&õÀconvert_to_tensorH˜Æ£ùòPà‰¿›"%õÀconvert_to_tensorHˆ¹àŒöP€ûÎ"&õÀconvert_to_tensorHÈƒ÷­öPØ¥ÿš"%õÀconvert_to_tensorH¨Æ¿ûPØù¥"%õÀconvert_to_tensorHè»¬ĞûPÀÓó"%õÀconvert_to_tensorHØæ¼ÙûPà÷’"%õÀconvert_to_tensorHøöı¿ıP¸÷×"&õÀconvert_to_tensorHğçÑËıPÈæ¯‰"%õÀconvert_to_tensorH¸êãÇ€PØ±Ï"&õÀconvert_to_tensorHˆ‘ é€Pğ¼×–"%õÀconvert_to_tensorHø÷ç…P£ "%õÀconvert_to_tensorHĞ¤‹ø…PÀîê"%õÀconvert_to_tensorHğÚ’†PĞÓ„"%õÀconvert_to_tensorHØ°È·‡Pà®İ"%õÀconvert_to_tensorH¯›ªˆPĞñƒ"%õÀconvert_to_tensorHÈĞìıˆPØ¸£"%õÀconvert_to_tensorH˜İ¿³ŠP°€È"%õÀconvert_to_tensorHˆ›æòŒP€ì¾	"%õÀconvert_to_tensorHĞ¤Ÿ†Pø‘"%õÀconvert_to_tensorH˜ßÒÕP€Êˆ"%õÀconvert_to_tensorH˜şëß‘Pˆéá"%õÀconvert_to_tensorHĞÃ”“P€ªé"%õÀconvert_to_tensorH°ïÄÈ”P â·"%õÀconvert_to_tensorH çÛû•P˜ãı"%õÀconvert_to_tensorH ‰˜÷˜PØÓ—"%õÀconvert_to_tensorHèçåé™P€ÿ£"&õÀconvert_to_tensorHˆ¾˜ï™PàçàÅ"&õÀconvert_to_tensorHĞ©¨›PßÊš"%õÀconvert_to_tensorHğÈø–PÈÎÕ"%õÀconvert_to_tensorH¨ì‚¼PèóÊ"%õÀconvert_to_tensorHàâÇùŸPÈşÅ"&õÀconvert_to_tensorHÀç¬şŸPà…Ğô"&õÀconvert_to_tensorHÈîÌæ P °†‡"%õÀconvert_to_tensorH˜¾åÀ£Pˆ»"%õÀconvert_to_tensorH “©ë£P€®µ"%õÀconvert_to_tensorH¨°âá¥PˆœÑ"%õÀconvert_to_tensorH°ì³’¨Pà­‡"&õÀconvert_to_tensorHØü› ¨PĞ•Ä¹"%õÀconvert_to_tensorH ™ˆ®Pàæå"%õÀconvert_to_tensorH¨’ Œ®P€””"%õÀconvert_to_tensorH°ÜÊ‚°PÈğ"&õÀconvert_to_tensorHĞÇ¶Ã±P¨Ûì¤"&õÀconvert_to_tensorHØÏ‹¶²PÈˆ³ "&õÀconvert_to_tensorH ‰ïƒµPñ¦"&õÀconvert_to_tensorHà¾ºéµP ê¼´"&õÀconvert_to_tensorHïÏÄ¸PèÚ‚"&õÀconvert_to_tensorHØ…Ê°¹Pèï"&õÀconvert_to_tensorHØğ¨á»P¸ç•õ"&õÀconvert_to_tensorHø³âÇ¼PèŒ‡ˆ"&õÀconvert_to_tensorH˜’ê‹¿P¸›Ë©"%õÀconvert_to_tensorHÈƒ±ŠÁPç"%õÀconvert_to_tensorHĞ„–³ÁPàÃÍ"%õÀconvert_to_tensorHˆù‰§ÃPËø"%õÀconvert_to_tensorH€—ÿœÅPà™ä"%õÀconvert_to_tensorHğÀÜÄÅPàœÚ"%õÀconvert_to_tensorHÀÅ¤ÄÇP¸âŞ"%õÀconvert_to_tensorH¸´êÇPĞ«»"%õÀconvert_to_tensorH˜Ê¨ŞÉP˜ˆÈ"%õÀconvert_to_tensorHşè„ÊP˜ùÃ"%õÀconvert_to_tensorHğ‹ûóËPğ£Ñ"%õÀconvert_to_tensorH€Æã™ÌP Å"%õÀconvert_to_tensorHÀäÇ’ÎPèÒŞ"%õÀconvert_to_tensorHØñË¸ÎPÈø¾"%õÀconvert_to_tensorH£ÖĞPèÕİ"%õÀconvert_to_tensorHØœÊšÒP Í¾"&õÀconvert_to_tensorHØùã±ÒP°ÉĞ"&õÀconvert_to_tensorHè¤õÈÓP Û×ƒ"&õÀconvert_to_tensorHäúÒÔP¸œŸ€"%õÀconvert_to_tensorH¨İ‰ºÖPÉÏ"%õÀconvert_to_tensorHĞªºÅÖPÈâû"%õÀconvert_to_tensorH â¾ÛÖPÀĞè"%õÀconvert_to_tensorH€ÜâèÖP¸‚ø"%õÀconvert_to_tensorHÀ‡ú”ÙP˜áÔ"&õÀconvert_to_tensorHğø ÙPğŸ¨›"%õÀconvert_to_tensorHÈúã¦ÜP°ôË"&õÀconvert_to_tensorH°£ÈÜP€‹Ï™"%õÀconvert_to_tensorHàôşïáPØŠÇ	"%õÀconvert_to_tensorHÀ‚·‚âP¨ï–"%õÀconvert_to_tensorHˆÀÓ‹âPà¯ª"%õÀconvert_to_tensorH…ÿãPøÄÓ"&õÀconvert_to_tensorHà€•‹äP¨Ì³•"%õÀconvert_to_tensorH¨µÅ¯çPˆ¬–"%õÀconvert_to_tensorHè“Ê¸çP¨òŒ"&õÀconvert_to_tensorHÈ¯˜ĞçP¸œû‹"%õÀconvert_to_tensorHèÈ²¿êP˜ïù"%õÀconvert_to_tensorHĞ’ÉÑíPØÍ™"%õÀconvert_to_tensorHÀ´•ÅîPÈº²"&õÀconvert_to_tensorHĞ›ÒÊîPè÷¾Å"&õÀconvert_to_tensorH ¨ßÃïPğ«µ¿"%õÀconvert_to_tensorH¸»¨óòPÀ¡×"%õÀconvert_to_tensorHèÇ€™óP¨¬Í"%õÀconvert_to_tensorHø‡ØôPĞÉº"&õÀconvert_to_tensorHà¼òÜôPÿ¦Ô"&õÀconvert_to_tensorHÀ–ÚÆõPˆÉ¨Û"%õÀconvert_to_tensorHğª‚ùP¨Œ·"%õÀconvert_to_tensorHÅĞ¬ùPˆá±"%õÀconvert_to_tensorH¨şá§ûP€“Ç"%õÀconvert_to_tensorHÈÇªıPè”É"&õÀconvert_to_tensorHˆÊ©¶ıP¡Í’"%õÀconvert_to_tensorH€§ùPğ’¡"%õÀconvert_to_tensorH¨é‰‹P¸ï"%õÀconvert_to_tensorHİ™ô‚Pğ½ò"&õÀconvert_to_tensorHÉà¡„P˜¹‹ú"&õÀconvert_to_tensorH¨Åı†…Pà×É"&õÀconvert_to_tensorH¿¶µ‡P€Ñ˜æ"&õÀconvert_to_tensorH À€•ˆPÀÎ¹„"&õÀconvert_to_tensorHÀ¨Ê´ŠPà„˜ë"&õÀconvert_to_tensorH€Ú˜‹PÀ¢›…"&õÀconvert_to_tensorH¸À‹¹Pğğ—è"&õÀconvert_to_tensorHèºœP ı¢ƒ"&õÀconvert_to_tensorHğÑÔPˆà‡"%õÀconvert_to_tensorH˜ì¡Ä’P˜…É"%õÀconvert_to_tensorH ¯ôë’PèÉØ"%õÀconvert_to_tensorHØ¾¦ò”PğÃğ"%õÀconvert_to_tensorH˜Š‘ä–P˜ÉÜ"%õÀconvert_to_tensorH¨ĞòŠ—PÀà¹"%õÀconvert_to_tensorHĞÖ·ƒ™PÈàÏ"%õÀconvert_to_tensorHĞÃò©™P ›œ"%õÀconvert_to_tensorHÀ¡®™›P¸ôØ"%õÀconvert_to_tensorHğø´Ñ›PÀ€Ù"%õÀconvert_to_tensorH€ÑíÓP„æ"%õÀconvert_to_tensorHğ­½úP˜Ä«"%õÀconvert_to_tensorHÈÆ©şŸPÈ¶İ"%õÀconvert_to_tensorH°›Å¤ P ğÓ"%õÀconvert_to_tensorHÉï¿¢P€Ü‚"%õÀconvert_to_tensorHÈéüŠ¤P¸ƒÔ"%õÀconvert_to_tensorH˜öòá¤P¸–¤"%õÀconvert_to_tensorHè›ú¸ãPøı½"&õÀconvert_to_tensorHà‰á¾ãP¨´Ş³"&õÀconvert_to_tensorH¨Ô¹õäPù¼€"%õÀconvert_to_tensorH°¶¾øåP¨ŒÉy"%õÀconvert_to_tensorH¸ÂÊôæPÂ™v"%õÀconvert_to_tensorH¨«šíçP Ì†v"&õÀconvert_to_tensorHÀ–×åèPˆŸ•"%õÀconvert_to_tensorHèä­ıéPÀº½w"%õÀconvert_to_tensorH¨÷›÷êPĞ±æs"%õÀconvert_to_tensorHğ²¿íëP€¾¶r"%õÀconvert_to_tensorH ¹¦âìP¨±¥s"%õÀconvert_to_tensorHøÊô×íPÈ°‰r"%õÀconvert_to_tensorHğïÉÌîPè£ër"%õÀconvert_to_tensorHŒãÁïP ÂÈo"%õÀconvert_to_tensorH¸ÍÜ³ğPĞ¾Áp"%õÀconvert_to_tensorHÈŸĞ¦ñPèÈÁn"%õÀconvert_to_tensorH¨´¹—òP°æÙn"%õÀconvert_to_tensorHğ½ÒˆóPø’ğm"%õÀconvert_to_tensorHˆËòøóPÀ¶‰m"%õÀconvert_to_tensorH˜ş¥èôPˆµØl"%õÀconvert_to_tensorHˆº¢×õP¨¥Ák"%õÀconvert_to_tensorH€¯œÅöPø„Îl"%õÀconvert_to_tensorHˆó„õˆPø¿¨"%õÀconvert_to_tensorHøµ—‹Pè¬æI"õÀtf.constantHØÖÄ¤‹P€ş¢:"GõÀEagerExecuteH€ŒÜº‹PØÄÅZ
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstH°™ö¼‹PğÉ"%õÀEagerCopyToDeviceH –ËÂ‹PˆÏÃ"0õÀValidateInputTypeAndPlacementH°ûØÉ‹Pèè3"&õÀEagerKernelExecuteH€Š€Ë‹P°„ö",õÀKernelAndDeviceFunc::RunHÈşøË‹P°œô")õÀTFE_DeleteTensorHandleH˜ïüÛ‹Pğ»O"%õÀconvert_to_tensorHÈ—ùä‹Pˆ²("õÀtf.constantH€±Ší‹P¨Å"GõÀEagerExecuteHàÏ÷‹P–ÂZ
+eager_op_EagerConstZ
+is_func0"2õÀEagerLocalExecute: _EagerConstHè­Ã÷‹P¸Ïó"$õÀEagerCopyToDeviceHèÄßù‹PÀĞw"0õÀValidateInputTypeAndPlacementH€ğÂı‹PøŸ"&õÀEagerKernelExecuteHĞàöı‹Pğñ®",õÀKernelAndDeviceFunc::RunHĞú—ş‹PøÙÆ")õÀTFE_DeleteTensorHandleH¨ª²„ŒP˜˜"%õÀconvert_to_tensorH€˜ÓŒP¨ä!"õÀtf.constantHøš°–ŒP˜µ€"GõÀEagerExecuteH€“şŒPæ×
+Z
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstHÈÓ´ŒPˆ‹•
+"$õÀEagerCopyToDeviceHà¢ ŒPÈk"0õÀValidateInputTypeAndPlacementHØâº£ŒP°Æ"&õÀEagerKernelExecuteH€¢ç£ŒPˆĞ",õÀKernelAndDeviceFunc::RunHğç‰¤ŒPù¼")õÀTFE_DeleteTensorHandleHè‰¶©ŒPàñ#",õÀTFE_Py_FastPathExecute_CH Êœ»ŒPÈ„µ"%õÀconvert_to_tensorH¸šùØŒPØĞ©'"õÀtf.constantHà‡ÌãŒP¨ÑÕ"GõÀEagerExecuteH¨¢ìŒPØ¡ãZ
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstHÈùáìŒPˆ‚•"$õÀEagerCopyToDeviceHØŞşîŒPè‚U"0õÀValidateInputTypeAndPlacementH°¬˜òŒP¸ê"&õÀEagerKernelExecuteHĞ»ÇòŒPè†›",õÀKernelAndDeviceFunc::RunHÈ¢ìòŒPĞ»")õÀTFE_DeleteTensorHandleHÈÑôøŒPˆ¯'",õÀTFE_Py_ExecuteCancelableH¸ĞÎŠPèÇÿ"XõÀEagerExecuteHà—–PÀ‚äZ(
+eager_opStatelessRandomGetKeyCounterZ
+is_func0"CõÀ/EagerLocalExecute: StatelessRandomGetKeyCounterHãËPğ¸£"$õÀEagerCopyToDeviceHøÔó’PĞ¹o"0õÀValidateInputTypeAndPlacementH ‘˜–Pà†"&õÀEagerKernelExecuteHøœĞ–Pğ¼",õÀKernelAndDeviceFunc::RunHğ•ï–PĞÍ€")õÀTFE_DeleteTensorHandleH˜‹¤P¨ÄT",õÀTFE_Py_FastPathExecute_CHÈº¿¨P ŸÀ>")õÀTFE_DeleteTensorHandleH€É¤²PàÔ"TõÀEagerExecuteHø¤ ³PĞ¼Õ2Z
+is_func0Z$
+eager_opStatelessRandomUniformV2"?õÀ+EagerLocalExecute: StatelessRandomUniformV2HøˆÓ³Pˆ—–2"%õÀEagerCopyToDeviceHØ™··P¨ùé"0õÀValidateInputTypeAndPlacementHàıê»P"&õÀEagerKernelExecuteHÀÅœ¼Pøªº)",õÀKernelAndDeviceFunc::RunHÈŒ¼¼P »Ï(",õÀTFE_Py_FastPathExecute_CH€¼€÷P˜ˆ‰"?õÀEagerExecuteHğ¦ŞûPØæºZ
+eager_opSubZ
+is_func0"*õÀEagerLocalExecute: SubH€Ó“üPˆú"%õÀEagerCopyToDeviceHøÏø€PĞëˆ"0õÀValidateInputTypeAndPlacementHğ©Â„Pè×"&õÀEagerKernelExecuteHà×ì„P€…",õÀKernelAndDeviceFunc::RunH¨Ñ…PÈö’",õÀTFE_Py_FastPathExecute_CHèé«œPğÿ¦"?õÀEagerExecuteHğÂ¹ P˜Æ¶Z
+eager_opMulZ
+is_func0"*õÀEagerLocalExecute: MulHˆ«è P€üı"$õÀEagerCopyToDeviceHÈñƒ¥PÈå}"0õÀValidateInputTypeAndPlacementHøÎª¨P¨œ"&õÀEagerKernelExecuteHàÏÖ¨Pˆëş",õÀKernelAndDeviceFunc::RunHèø¨Pø¿Ÿ")õÀTFE_DeleteTensorHandleH¨»·²PĞÒ="%õÀconvert_to_tensorHèÆ­»PğÕ"%õÀconvert_to_tensorH˜¡ÆÃP Ñ",õÀTFE_Py_FastPathExecute_CH¶šËPğğ¨"AõÀEagerExecuteHÈŠÎÏPèÍŒZ
+is_func0Z
+eager_opAddV2",õÀEagerLocalExecute: AddV2HÈè‚ĞPØÅË"%õÀEagerCopyToDeviceHàÙ¢ÔP¸‚„"0õÀValidateInputTypeAndPlacementHø™ÿ×Pø«"&õÀEagerKernelExecuteH¨ƒ«ØPÀÉ‘",õÀKernelAndDeviceFunc::RunHĞéÊØPà²")õÀTFE_DeleteTensorHandleH€çşáPàÀ]")õÀTFE_DeleteTensorHandleH¨…­åP¸õ4")õÀTFE_DeleteTensorHandleHØá†æP°ä")õÀTFE_DeleteTensorHandleH°Ê æPğ¥")õÀTFE_DeleteTensorHandleHàà½æPÍ*")õÀTFE_DeleteTensorHandleHø˜üæP°æ,")õÀTFE_DeleteTensorHandleH°ğºçP 9"%õÀconvert_to_tensorHĞØêëPèÅı"-õÀTFE_Py_FastPathExecute_CH˜ûÄPØÇƒü"HõÀEagerExecuteH˜µÛ›P€ŒëZ
+eager_opVarHandleOpZ
+is_func0"3õÀEagerLocalExecute: VarHandleOpHËšœPè˜¹ê"$õÀEagerCopyToDeviceHˆéè¤PÀ£	"0õÀValidateInputTypeAndPlacementH°ŞüÄ“P€»"&õÀEagerKernelExecuteHğ¨öÅ“Pˆã¦@",õÀKernelAndDeviceFunc::RunH ²ÁÆ“Pøë­4"-õÀTFE_Py_FastPathExecute_CHğÏ•Ş”PÀè÷›"MõÀEagerExecuteHñ—ë”P˜ºœZ
+is_func0Z
+eager_opAssignVariableOp"8õÀ#EagerLocalExecute: AssignVariableOpH¸È¹ì”PøÔâ‹"%õÀEagerCopyToDeviceHèƒò”PÀ³"0õÀValidateInputTypeAndPlacementH ŸÓÁ˜P€À>"&õÀEagerKernelExecuteHøéóÂ˜PğÚù4",õÀKernelAndDeviceFunc::RunHè¨ÂÃ˜P€Ç—(")õÀTFE_DeleteTensorHandleHÈâˆ„™PÀ­Y"%õÀconvert_to_tensorHèÔû³šP˜áÑ"&õÀconvert_to_tensorHØü’»šPø©"&õÀconvert_to_tensorHˆ¥Ø›PØğË"%õÀconvert_to_tensorH°Û»¶ŸP°´Š"%õÀconvert_to_tensorHĞò™ŞŸP–×"%õÀconvert_to_tensorH¸Œè¹¢P¨é•"õÀtf.constantH¸”ã•¥Pø¡Ÿ3"GõÀEagerExecuteHØú¹©¥P°½¼Z
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstHÀƒŠ«¥P€üÜ"%õÀEagerCopyToDeviceH€ç¯¥P˜°”"0õÀValidateInputTypeAndPlacementHøòŸ¶¥PÀ“8"&õÀEagerKernelExecuteH¸Î½·¥P ƒŒ",õÀKernelAndDeviceFunc::RunHĞÙŠ¸¥PÀ¡¼")õÀTFE_DeleteTensorHandleH·Æ¥P ÊE"õÀtf.constantHÈİŠÏ¥Pğå¯",õÀTFE_Py_FastPathExecute_CHˆçÅİ¥P°í‹&"@õÀEagerExecuteH°‚æå¥PøÒªZ
+is_func0Z
+eager_opFill"+õÀEagerLocalExecute: FillHˆ‹Ÿæ¥P¨¨Å"%õÀEagerCopyToDeviceH¨ÌÏî¥Pèğ×"0õÀValidateInputTypeAndPlacementHøîó¥Pè°"&õÀEagerKernelExecuteH€ëÈó¥P€…	",õÀKernelAndDeviceFunc::RunH¨­ôó¥Pø×‘")õÀTFE_DeleteTensorHandleHø‡ ‡¦PØ§")õÀTFE_DeleteTensorHandleH€ÑÜ‹¦Pğ¬T"%õÀconvert_to_tensorHğÒß¦PàŞ¾"-õÀTFE_Py_FastPathExecute_CH¸¾ş®¦PĞèù£"HõÀEagerExecuteHà›ú»¦P¸ŸÄ”Z
+is_func0Z
+eager_opVarHandleOp"3õÀEagerLocalExecute: VarHandleOpHàÏ¼¼¦PÕñ“"$õÀEagerCopyToDeviceHÈÖÎÄ¦PàÅ"0õÀValidateInputTypeAndPlacementHˆ á•ªP¨¥"&õÀEagerKernelExecuteHˆ†½–ªP°—Â9",õÀKernelAndDeviceFunc::RunHÈ„ü–ªP€òÍ-"-õÀTFE_Py_FastPathExecute_CH¨†ë•«Pğãµ”"MõÀEagerExecuteHÈ¥Ê «PĞ¥ˆZ
+eager_opAssignVariableOpZ
+is_func0"8õÀ#EagerLocalExecute: AssignVariableOpHèî¹¡«P â„‡"%õÀEagerCopyToDeviceH €§«P¨’µ"0õÀValidateInputTypeAndPlacementHÀÈÁó®PÈ±;"&õÀEagerKernelExecuteH°ëÂô®P¸¾Ô3",õÀKernelAndDeviceFunc::RunHÀÉ‘õ®P ºÿ&")õÀTFE_DeleteTensorHandleH¸³õ³¯PøßP"õÀtf.constantHè¼ìÌ°Pè„%"GõÀEagerExecuteHÈ«äÛ°P€ÖÔZ
+eager_op_EagerConstZ
+is_func0"2õÀEagerLocalExecute: _EagerConstHè»æÜ°P°‚Ä"$õÀEagerCopyToDeviceH¸—˜à°PğÌs"0õÀValidateInputTypeAndPlacementH ¯Úä°P€©"&õÀEagerKernelExecuteH¸¨­å°P¸‘ç",õÀKernelAndDeviceFunc::RunHØéå°P¸ƒÅ")õÀTFE_DeleteTensorHandleHèÛÌï°PĞ…-"õÀtf.constantH˜ïÒ÷°Pğøÿ",õÀTFE_Py_FastPathExecute_CHˆğä„±Pà¢™"@õÀEagerExecuteHÀ—¡‹±PÀÓÀZ
+is_func0Z
+eager_opFill"+õÀEagerLocalExecute: FillH ÊÙ‹±Pğş"%õÀEagerCopyToDeviceH¨Òû‘±PàÓª"0õÀValidateInputTypeAndPlacementHĞıø•±Pø–"&õÀEagerKernelExecuteHØ—§–±PØš",õÀKernelAndDeviceFunc::RunHˆŠĞ–±PÈ™±")õÀTFE_DeleteTensorHandleHøÖ¢¢±P¨·")õÀTFE_DeleteTensorHandleHˆéª¦±PØäD"%õÀconvert_to_tensorHğŸ¹ª±P ÉÚ",õÀTFE_Py_FastPathExecute_CH ÏÇÈ±PĞ¡š"GõÀEagerExecuteHÃŠÕ±PøæZ
+eager_opVarHandleOpZ
+is_func0"2õÀEagerLocalExecute: VarHandleOpH˜§ÊÕ±PğÁš"$õÀEagerCopyToDeviceHµÖÙ±PàÅ"0õÀValidateInputTypeAndPlacementHÿŞÜ±PøÃ"&õÀEagerKernelExecuteH–İ±PàÒ	",õÀKernelAndDeviceFunc::RunHĞô İ±P€–´",õÀTFE_Py_FastPathExecute_CHĞÓı•²P¸çÇ"LõÀEagerExecuteHøÄ®²PèÆ»Z
+is_func0Z
+eager_opAssignVariableOp"7õÀ#EagerLocalExecute: AssignVariableOpHğÑğ²PÀóë"%õÀEagerCopyToDeviceHØ“¨¡²P€—œ"0õÀValidateInputTypeAndPlacementH˜ø¶¦²Pğ¶'"&õÀEagerKernelExecuteHÈ™ú¦²P€àÎ",õÀKernelAndDeviceFunc::RunHÀë¥§²Pè¿ˆ")õÀTFE_DeleteTensorHandleHÈö·²²Pğ­*"õÀtf.constantH¨Šª®³P Ùé"GõÀEagerExecuteHÈ‘º³PÈƒÍZ
+eager_op_EagerConstZ
+is_func0"2õÀEagerLocalExecute: _EagerConstH€¹Üº³Pğãñ"$õÀEagerCopyToDeviceHè ´½³P«_"0õÀValidateInputTypeAndPlacementHîüÀ³PĞß"&õÀEagerKernelExecuteHĞ±Á³P¸½‹",õÀKernelAndDeviceFunc::RunH ¨×Á³PÈó–")õÀTFE_DeleteTensorHandleHĞáıÈ³P §'"õÀtf.constantHˆ›±Ğ³PÈ³Õ",õÀTFE_Py_FastPathExecute_CHèÅÜ³P ×Ò"@õÀEagerExecuteHè—Èá³P€ş£Z
+eager_opFillZ
+is_func0"+õÀEagerLocalExecute: FillH˜àşá³P àä"%õÀEagerCopyToDeviceHğûøæ³P¸œ¥"0õÀValidateInputTypeAndPlacementH¨ÀŞê³PÀ‘"&õÀEagerKernelExecuteH˜îˆë³PØ¨Æ",õÀKernelAndDeviceFunc::RunHè…°ë³P˜ØÎ")õÀTFE_DeleteTensorHandleHø÷õ³P¨·")õÀTFE_DeleteTensorHandleHĞŸıù³Pà—A"%õÀconvert_to_tensorH¸¹ëı³Pğ”Ç",õÀTFE_Py_FastPathExecute_CH¹Ğš´Pğò¼"GõÀEagerExecuteH¨€é¥´P€Ú¯Z
+eager_opVarHandleOpZ
+is_func0"2õÀEagerLocalExecute: VarHandleOpHÈè¤¦´PÈè"$õÀEagerCopyToDeviceHàï“ª´PøÀ"0õÀValidateInputTypeAndPlacementHˆ·á¬´PÈÙ"&õÀEagerKernelExecuteHˆÔ­´Pà¡ù",õÀKernelAndDeviceFunc::RunHø«­´P€÷ê",õÀTFE_Py_FastPathExecute_CHÀÉ‘ã´Pøÿ"LõÀEagerExecuteH¸“ê´PÈÅ±Z
+eager_opAssignVariableOpZ
+is_func0"7õÀ#EagerLocalExecute: AssignVariableOpHğÒÇê´PğŠß"%õÀEagerCopyToDeviceH ÷€î´PèÔŠ"0õÀValidateInputTypeAndPlacementH€¥‚ó´PØĞ!"&õÀEagerKernelExecuteH şÂó´Pø²Ğ",õÀKernelAndDeviceFunc::RunH°Åïó´P İ†")õÀTFE_DeleteTensorHandleHø“ƒµP¨¡6"õÀtf.constantH¨„§ıµP€‹Ï"GõÀEagerExecuteHˆ¹çˆ¶P ÑïZ
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstH˜‚½‰¶P€ä‹"$õÀEagerCopyToDeviceHø¿•Œ¶PÈ"0õÀValidateInputTypeAndPlacementH¨æ÷¶PĞâ"&õÀEagerKernelExecuteHøÙª¶P€¬‰",õÀKernelAndDeviceFunc::RunH°öÒ¶PÀü†")õÀTFE_DeleteTensorHandleHøËí—¶P¸Ÿ'"õÀtf.constantH ÿˆŸ¶Pøì",õÀTFE_Py_FastPathExecute_CHØ÷˜«¶P¨ƒş"@õÀEagerExecuteHÀÂÇ°¶P¸ ÍZ
+is_func0Z
+eager_opFill"+õÀEagerLocalExecute: FillHàÈù°¶Pˆç‘"%õÀEagerCopyToDeviceHØ¨¾µ¶P¨à"0õÀValidateInputTypeAndPlacementHèš§¹¶P¨–"&õÀEagerKernelExecuteHĞ•Õ¹¶P©¤",õÀKernelAndDeviceFunc::RunHà÷ø¹¶PØç´")õÀTFE_DeleteTensorHandleH˜—‚Ä¶P¨·")õÀTFE_DeleteTensorHandleHĞŠ‚È¶P˜Á;"%õÀconvert_to_tensorHˆ¦ËË¶PÀ›Ê",õÀTFE_Py_FastPathExecute_CHˆÌ‘è¶PğËÉ"GõÀEagerExecuteHÈ°ó¶PğìâZ
+is_func0Z
+eager_opVarHandleOp"2õÀEagerLocalExecute: VarHandleOpH€”Éó¶P°‰›"$õÀEagerCopyToDeviceH€ÏÓ÷¶P€è"0õÀValidateInputTypeAndPlacementH°±¥ú¶P “"&õÀEagerKernelExecuteH°ÈÇú¶P ­Š	",õÀKernelAndDeviceFunc::RunHĞ“ãú¶P ãû",õÀTFE_Py_FastPathExecute_CHàÓœ¯·P ÷ñ"LõÀEagerExecuteHÍ„¶·P®±Z
+is_func0Z
+eager_opAssignVariableOp"7õÀ#EagerLocalExecute: AssignVariableOpH¨ùÆ¶·P¡â"%õÀEagerCopyToDeviceHÈÏÿ¹·P¸ü‚"0õÀValidateInputTypeAndPlacementH¸İû¾·P°õ'"&õÀEagerKernelExecuteH¸üÄ¿·PÀ›Ğ",õÀKernelAndDeviceFunc::RunHğ†ó¿·Pğé‡")õÀTFE_DeleteTensorHandleHĞ“íÊ·Pè†*"&õÀconvert_to_tensorHÈÒÖ¸P¸ÚÓÃ"&õÀconvert_to_tensorHÉ·×¹PØ…˜²"&õÀconvert_to_tensorH ¬ÿ´¼PĞ¢Í÷"&õÀconvert_to_tensorH€†ÿ–½PÈçùŒ"&õÀconvert_to_tensorHĞ«©Æ¿Pğ†´ø"&õÀconvert_to_tensorH¸òÖ­ÀPÀÉüŠ"&õÀconvert_to_tensorHàÕáØÂP˜«éø"&õÀconvert_to_tensorHĞóüÀÃPè ¤Š"&õÀconvert_to_tensorHè—®‡ÆPÆ–¼"%õÀconvert_to_tensorHÀîˆ˜ÈPĞãÛ"%õÀconvert_to_tensorHøÓñÀÈPĞ¹à"%õÀconvert_to_tensorHÈû©ùÊPøÑ¢"%õÀconvert_to_tensorHè¾šÍPˆ›û"%õÀconvert_to_tensorH¸ğêÅÍP¨ˆÙ"%õÀconvert_to_tensorH˜ŸƒÙÏPœŞ"%õÀconvert_to_tensorHĞØÖÿÏP¸çı"%õÀconvert_to_tensorHøØØÒP¨×›"%õÀconvert_to_tensorH „á¸ÒPèÛÒ"%õÀconvert_to_tensorH íäÏÔPèı£"%õÀconvert_to_tensorH°Ô¾õÔPøèÁ"%õÀconvert_to_tensorHˆùëâÖPØÁ "%õÀconvert_to_tensorHØ»×PØ±É"%õÀconvert_to_tensorHàÚß¡ÙP˜…É"%õÀconvert_to_tensorH ±¦‚ÛPàóÆ"%õÀconvert_to_tensorHøˆöŞÜPĞÇÚ="õÀtf.constantH°ÓÄéÜPÈ–®1"GõÀEagerExecuteHÀ¿…ûÜPè™£Z
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstHø˜êüÜP€ô²"%õÀEagerCopyToDeviceHÁËİPø§¶"0õÀValidateInputTypeAndPlacementHÚ„ˆİP¨›8"&õÀEagerKernelExecuteH¸Ò›‰İPø¥æ",õÀKernelAndDeviceFunc::RunHøÕ‚ŠİPà¯•")õÀTFE_DeleteTensorHandleH¨ç˜İP€¥G"%õÀconvert_to_tensorH¸ğÌŸİP€€ "õÀtf.constantHøÁˆ¦İPà¤Ô"GõÀEagerExecuteHØ„ú­İP°ë¶
+Z
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstH€»©®İPıü	"$õÀEagerCopyToDeviceHè±ÿ¯İPØÀP"0õÀValidateInputTypeAndPlacementHøò²İPà¿
+"&õÀEagerKernelExecuteHè¦³İPÈèğ",õÀKernelAndDeviceFunc::RunHèÓ¾³İPÜ™")õÀTFE_DeleteTensorHandleH¨Ÿÿ¸İP°¢"%õÀconvert_to_tensorH¸¾ÊÁİP¸Ô"õÀtf.constantHğæßÆİP´"GõÀEagerExecuteHˆĞÒÌİPÈÜëZ
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstH¸ÑöÌİP°ë¿"$õÀEagerCopyToDeviceHĞ¡ªÎİPÈK"0õÀValidateInputTypeAndPlacementH¨•äĞİPàÂ	"&õÀEagerKernelExecuteH€ìƒÑİPÈØ¥",õÀKernelAndDeviceFunc::RunHĞ³›ÑİP®Ø")õÀTFE_DeleteTensorHandleHˆàˆÕİP¨ø",õÀTFE_Py_FastPathExecute_CH°´òèİPØî…"%õÀconvert_to_tensorH¨“¢‚ŞPø¹Ü"õÀtf.constantHğÓÀŠŞPĞ‹ò"GõÀEagerExecuteH¸•¸‘ŞP˜×ì	Z
+eager_op_EagerConstZ
+is_func0"2õÀEagerLocalExecute: _EagerConstHØ˜ë‘ŞPØÏ°	"$õÀEagerCopyToDeviceHØ†ë“ŞP¨èH"0õÀValidateInputTypeAndPlacementH€Èº–ŞPèà"&õÀEagerKernelExecuteH¤à–ŞPÈ·­",õÀKernelAndDeviceFunc::RunHøÚú–ŞPà£´")õÀTFE_DeleteTensorHandleHè¾„œŞPú",õÀTFE_Py_ExecuteCancelableHã˜§ŞPğÑè"XõÀEagerExecuteH˜ŞñªŞPèÃÂZ
+is_func0Z(
+eager_opStatelessRandomGetKeyCounter"CõÀ/EagerLocalExecute: StatelessRandomGetKeyCounterHèò™«ŞPğı’"$õÀEagerCopyToDeviceHˆûî­ŞPœd"0õÀValidateInputTypeAndPlacementH ¾Í°ŞP ş
+"&õÀEagerKernelExecuteH°ùı°ŞPĞç¡",õÀKernelAndDeviceFunc::RunH˜¼”±ŞPÀò°")õÀTFE_DeleteTensorHandleH¸°«¼ŞPøßP",õÀTFE_Py_FastPathExecute_CHÊÿ¿ŞP¯æ")õÀTFE_DeleteTensorHandleH¸æõÇŞPÈ"TõÀEagerExecuteH¨ËÈŞP¸Ç½Z
+is_func0Z$
+eager_opStatelessRandomUniformV2"?õÀ+EagerLocalExecute: StatelessRandomUniformV2HğıòÈŞPà "%õÀEagerCopyToDeviceHè–¨ÌŞPØäÁ"0õÀValidateInputTypeAndPlacementHÀ×ïÏŞPø–"&õÀEagerKernelExecuteH¨Ş™ĞŞPà„Ù",õÀKernelAndDeviceFunc::RunH€Ç³ĞŞP İı",õÀTFE_Py_FastPathExecute_CHÈŒÖäŞP¸öÔ"?õÀEagerExecuteHøè¦èŞPàÒ°Z
+is_func0Z
+eager_opSub"*õÀEagerLocalExecute: SubHğÃÏèŞPÀÆ€"$õÀEagerCopyToDeviceHˆû®ìŞP˜·h"0õÀValidateInputTypeAndPlacementHÀå´ïŞP¨¥"&õÀEagerKernelExecuteHˆèÕïŞP°óì",õÀKernelAndDeviceFunc::RunHÀ¨òïŞP˜’’",õÀTFE_Py_FastPathExecute_CHÀÍ†ßPÈóõ"?õÀEagerExecuteHğ­¬„ßP€üZ
+is_func0Z
+eager_opMul"*õÀEagerLocalExecute: MulH˜‚Ò„ßP¨ğÎ"$õÀEagerCopyToDeviceHÈÙú‡ßP°ùy"0õÀValidateInputTypeAndPlacementH¸©çŠßPØ"&õÀEagerKernelExecuteHĞ¸‰‹ßPÀó‰",õÀKernelAndDeviceFunc::RunH †Ÿ‹ßP¨ÓÃ")õÀTFE_DeleteTensorHandleHØç›’ßP¸ø3"%õÀconvert_to_tensorHÈú¹™ßP ½í"%õÀconvert_to_tensorH¨†íŸßPèô©",õÀTFE_Py_FastPathExecute_CHà Ú¥ßPøÚõ"AõÀEagerExecuteH€ßš©ßP „âZ
+is_func0Z
+eager_opAddV2",õÀEagerLocalExecute: AddV2Hğ†Ç©ßP€‡­"$õÀEagerCopyToDeviceHŒš­ßP çe"0õÀValidateInputTypeAndPlacementHØı°ßPèã"&õÀEagerKernelExecuteH¨¡±°ßPğÜµ",õÀKernelAndDeviceFunc::RunHğ¸Ë°ßP ®ì")õÀTFE_DeleteTensorHandleH¨ğÕ·ßP˜€'")õÀTFE_DeleteTensorHandleH˜Îê¹ßP˜›")õÀTFE_DeleteTensorHandleHàˆ£ºßPˆ")õÀTFE_DeleteTensorHandleHÀª·ºßPøÏ")õÀTFE_DeleteTensorHandleH°”ÎºßPøû")õÀTFE_DeleteTensorHandleHàúúºßP€Á")õÀTFE_DeleteTensorHandleH¨÷»ßPèÎ"%õÀconvert_to_tensorH Ş¹¾ßPøÅ"-õÀTFE_Py_FastPathExecute_CH˜ëªÙßPĞÉª¥"HõÀEagerExecuteHÀîÉäßPˆĞ°—Z
+eager_opVarHandleOpZ
+is_func0"3õÀEagerLocalExecute: VarHandleOpHˆ»üäßPøßç–"$õÀEagerCopyToDeviceH€³°ìßPĞú"0õÀValidateInputTypeAndPlacementH°æÖ¾ãP°±"&õÀEagerKernelExecuteHè¤Ç¿ãPëé;",õÀKernelAndDeviceFunc::RunHØ‡ŠÀãP€ÅÖ/"-õÀTFE_Py_FastPathExecute_CH€êÔ½äP˜ä„½"MõÀEagerExecuteHøıÏÆäPØİ¼²Z
+eager_opAssignVariableOpZ
+is_func0"8õÀ#EagerLocalExecute: AssignVariableOpH°“¤ÇäP°äÏ±"%õÀEagerCopyToDeviceHãËäPŠ"1õÀValidateInputTypeAndPlacementHğ“†ÁçP¨¬Ö"&õÀEagerKernelExecuteH˜ĞªÄçP˜Ü“4",õÀKernelAndDeviceFunc::RunH°ÒúÄçP ®€(")õÀTFE_DeleteTensorHandleHğÂÑ„èPˆ´O"õÀtf.constantHĞ¦µŠéPˆÂù("GõÀEagerExecuteHˆ¥·šéPĞ×©Z
+eager_op_EagerConstZ
+is_func0"2õÀEagerLocalExecute: _EagerConstHÈé²›éPÀ°Ÿ"$õÀEagerCopyToDeviceHÀÉúéPÈúv"0õÀValidateInputTypeAndPlacementH³Î£éPÀÕ""&õÀEagerKernelExecuteH°¸¤éPÀöù	",õÀKernelAndDeviceFunc::RunH û¤éPèŞÈ")õÀTFE_DeleteTensorHandleH€ô¡°éP°¿9"õÀtf.constantHèªºéPĞº³",õÀTFE_Py_FastPathExecute_CH€¢›ÉéPÀàå "@õÀEagerExecuteHÈáæĞéP¸³‚Z
+is_func0Z
+eager_opFill"+õÀEagerLocalExecute: FillHÀÍ³ÑéP€­©"%õÀEagerCopyToDeviceH¨ÿŠÚéP‚À"0õÀValidateInputTypeAndPlacementH€´ÓŞéPØß"&õÀEagerKernelExecuteH°çßéPèˆ¸	",õÀKernelAndDeviceFunc::RunHØ¦½ßéP ‹Â")õÀTFE_DeleteTensorHandleHğß§íéP¿")õÀTFE_DeleteTensorHandleHà‘˜òéPˆ«R"%õÀconvert_to_tensorHĞº‹÷éP¨Ÿõ"-õÀTFE_Py_FastPathExecute_CH€÷˜êP€³å "HõÀEagerExecuteHîÒ¦êP€ì…Z
+is_func0Z
+eager_opVarHandleOp"3õÀEagerLocalExecute: VarHandleOpH€¼œ§êP¨Æ¬"$õÀEagerCopyToDeviceH¸ˆ¯êPØ›	"0õÀValidateInputTypeAndPlacementHˆ¤ ÷íPÈ»"&õÀEagerKernelExecuteH ÛˆøíPˆ¨–>",õÀKernelAndDeviceFunc::RunHˆğ×øíPĞÇş1"-õÀTFE_Py_FastPathExecute_CHÈßñƒïPˆ¨¼"MõÀEagerExecuteHğòáïP°‚Ì¯Z
+eager_opAssignVariableOpZ
+is_func0"8õÀ#EagerLocalExecute: AssignVariableOpHÈßÍïPè±Ç®"%õÀEagerCopyToDeviceHØôÑ”ïPĞÙ‹"0õÀValidateInputTypeAndPlacementH˜”•‡òP°Â8"&õÀEagerKernelExecuteH¸’ˆòP ØÈ5",õÀKernelAndDeviceFunc::RunHÈ¿Ÿ‹òPÈú'")õÀTFE_DeleteTensorHandleHàêËÊòPÀ¼T"%õÀconvert_to_tensorHÈ—ìÔóPØü³"&õÀconvert_to_tensorH€®„ÛóPˆİ‡Â"&õÀconvert_to_tensorHˆ‰µŞôPÀÕÍÂ"%õÀconvert_to_tensorHà€öğ÷Pğ¹ "%õÀconvert_to_tensorH°®ŒøPÉÉ"%õÀconvert_to_tensorHÀÀ·¯ùPˆ˜ÿ"&õÀconvert_to_tensorHå¤³ùPˆ•Ã¹"%õÀconvert_to_tensorH€Í‰úP¸”Ÿs"%õÀconvert_to_tensorHøË£®üPØŒˆ"%õÀconvert_to_tensorH¸¹ĞüP¨†³"%õÀconvert_to_tensorHèØËÖşPğ›§"%õÀconvert_to_tensorH¨ìÂ¿ÿP ¨ô"/õÀtf.function-graph_buildingHøÎæç™PĞˆµo"fõÀcalculate_mof_embeddingHØ£Ü°ŸPØÎôZ
+tracing_count2Z$
+tf_function_callnotTraced-nonXla"%õÀconvert_to_tensorH°µÍÁ¡P°€È"&õÀconvert_to_tensorH€«Æ¡PØÊ‹…"%õÀconvert_to_tensorHØ¡¾Í¢P°Ôúe"%õÀconvert_to_tensorHè¾ºµ£PÈÅ»_"%õÀconvert_to_tensorHàñğ–¤PÓ\"%õÀconvert_to_tensorHÀùÀõ¤P€¯€\"%õÀconvert_to_tensorHØ·İÓ¥P¸Í×Z"%õÀconvert_to_tensorH¬°¦PÈé»["%õÀconvert_to_tensorHÈ¬à§PœÇ]"%õÀconvert_to_tensorHÎ§í§PğçÓ["%õÀconvert_to_tensorHğ±†Ë¨Pˆ˜\"%õÀconvert_to_tensorHøÂ—©©PÀø²X"%õÀconvert_to_tensorHĞÔ¹ƒªP°êóW"%õÀconvert_to_tensorH°¬¨İªPĞå“{"%õÀconvert_to_tensorHÚµÛ«P Ñ™}"%õÀconvert_to_tensorHĞ¡ªÛ¬P ƒ¶|"&õÀconvert_to_tensorHğªÕÚ­P€œ¾"&õÀconvert_to_tensorHØÚ†ß®Pøóä‚"%õÀconvert_to_tensorHØÑîä¯Pˆ°•u"%õÀconvert_to_tensorHÈ©Ü°PàÁ“^"%õÀconvert_to_tensorH°§¼±PÈØ£W"%õÀconvert_to_tensorHğ…³•²P ¶—W"%õÀconvert_to_tensorHÀ©Ô¿PĞ‹¥"%õÀconvert_to_tensorHØûúÒÀP°Şÿ"&õÀconvert_to_tensorH¸ÎÆ×ÀPàĞ«õ"&õÀconvert_to_tensorH€û çÁPèÑï±"%õÀconvert_to_tensorHˆı¶¼ÅP˜¶Œ"%õÀconvert_to_tensorH°¸æÅP°ø”"%õÀconvert_to_tensorHÈÿÕÜÇPäÆ"&õÀconvert_to_tensorHèŒ”ñÈP˜œ´¸"%õÀconvert_to_tensorH°ì‘ÆÉP°­Ôv"&õÀconvert_to_tensorH æü¾ËP ¥ƒ¢"%õÀconvert_to_tensorH¨™ŒŒÌPØ”îj"&õÀconvert_to_tensorHŠšöÍP³¦"%õÀconvert_to_tensorHÀÅ‚ÉÎPèÄûi"&õÀconvert_to_tensorH°ì‘±ĞP˜¡ªŸ"%õÀconvert_to_tensorH°“€ÑPèòÅh"&õÀconvert_to_tensorH¨¨ûÒP¨ù˜™"%õÀconvert_to_tensorH€ ê×ÔP¨œˆ"%õÀconvert_to_tensorHˆŸÁ÷ÔP€Ã"%õÀconvert_to_tensorH€ãÿÖPˆ¼ğ"%õÀconvert_to_tensorHÀõ‡¡ÙPÖ"%õÀconvert_to_tensorHÈ×ËÙPˆó¨"%õÀconvert_to_tensorHøÍ×ÛPˆÿ°"%õÀconvert_to_tensorHÈß«÷ÛPµ¦"%õÀconvert_to_tensorHàì®ÄİPøİ¡"%õÀconvert_to_tensorHÀ¦ÛãİPÈéÆ"%õÀconvert_to_tensorHğûˆ¨ßPà”"%õÀconvert_to_tensorHà–÷ËßPŸ×"%õÀconvert_to_tensorH Ùµ£áPĞÄ’"%õÀconvert_to_tensorHĞŸæÁáPÈ‡½"%õÀconvert_to_tensorH¸Í¤±ãPÀÌŸ"%õÀconvert_to_tensorH€ƒääPè‰£"%õÀconvert_to_tensorH ®ÛåP¨¾Ğ"&õÀconvert_to_tensorHà†áåPøš¡¸"&õÀconvert_to_tensorHèöïÜæPĞ€™ "%õÀconvert_to_tensorHˆƒ„êP¨ÿä"%õÀconvert_to_tensorHø¼»«êPÀÜä"%õÀconvert_to_tensorH˜­ÛèëP˜¡–"&õÀconvert_to_tensorHèÙïìëPØÓ£ö"&õÀconvert_to_tensorHØùàÆìPø¿˜¯"%õÀconvert_to_tensorH°ÊÓ£ïPà¶‡"%õÀconvert_to_tensorHØÖªÅïP¸¥"%õÀconvert_to_tensorH˜ã§ñP°œ•"%õÀconvert_to_tensorHğç³ÕñPˆ¿ò".õÀTFE_Py_ExecuteCancelableH –…÷‰P„çŠ"RõÀEagerExecuteHÈ›Ä…ŠPèÆ²ÖŠZ 
+eager_op__inference_call_867Z
+is_func1"=õÀ'EagerLocalExecute: __inference_call_867H¨‘·‡ŠPÀŞïÓŠ"%õÀEagerCopyToDeviceH ¼ï‡ŠPè”“"1õÀValidateInputTypeAndPlacementHà°ºúµ Pˆ±Ê"'õÀEagerKernelExecuteHÈ’‘şµ PĞ°Û^"-õÀKernelAndDeviceFunc::RunHØÂ•€¶ PÀ¹ã”Y"DõÀExecutorState::ProcessH öÆˆ¹ PÀïŸ‰Z
+id-1Z
+iter_num0"CõÀExecutorState::ProcessHÀ±ÿ¹ PÈ¾Z
+iter_num0Z
+id-1"´õÀ9_send_StatefulPartitionedCall/strided_slice/stack_0:_SendHˆÄ’º P¨ø–Ze
+key^/device:CPU:0;71c9bd9a3952a114;/device:CPU:0;StatefulPartitionedCall/strided_slice/stack:0;0:0"BõÀExecutorState::ProcessH€éÆƒº PàwZ
+id-1Z
+iter_num0"¯õÀ7_send_StatefulPartitionedCall/BroadcastTo/shape_0:_SendH˜ŒŒ„º P ›+Zc
+key\/device:CPU:0;71c9bd9a3952a114;/device:CPU:0;StatefulPartitionedCall/BroadcastTo/shape:0;0:0"BõÀExecutorState::ProcessHøÌé„º P°sZ
+iter_num0Z
+id-1"—õÀ+_send_StatefulPartitionedCall/Const_0:_SendHğÍ¯…º PĞ $ZW
+keyP/device:CPU:0;71c9bd9a3952a114;/device:CPU:0;StatefulPartitionedCall/Const:0;0:0"BõÀExecutorState::ProcessHĞ¦…†º PØãnZ
+iter_num0Z
+id-1"ÍõÀF_send_StatefulPartitionedCall/interaction_weight/Reshape/shape_0:_SendHğÁ†º PÀ·,Zr
+keyk/device:CPU:0;71c9bd9a3952a114;/device:CPU:0;StatefulPartitionedCall/interaction_weight/Reshape/shape:0;0:0"BõÀExecutorState::ProcessH î™‡º P¨äsZ
+id-1Z
+iter_num0"¥õÀ2_send_StatefulPartitionedCall/zeros_like_1_0:_SendH¸—İ‡º PÀÀ)Z^
+keyW/device:CPU:0;71c9bd9a3952a114;/device:CPU:0;StatefulPartitionedCall/zeros_like_1:0;0:0"BõÀExecutorState::ProcessH€ø²ˆº PèöXZ
+iter_num0Z
+id-1"£õÀ1_send_StatefulPartitionedCall/concat/axis_0:_SendHà¿äˆº PĞ©!Z]
+keyV/device:CPU:0;71c9bd9a3952a114;/device:CPU:0;StatefulPartitionedCall/concat/axis:0;0:0"BõÀExecutorState::ProcessH …¶‰º Pˆ„_Z
+iter_num0Z
+id-1"·õÀ;_send_StatefulPartitionedCall/strided_slice/stack_2_0:_SendH€Ğæ‰º PÈí'Zg
+key`/device:CPU:0;71c9bd9a3952a114;/device:CPU:0;StatefulPartitionedCall/strided_slice/stack_2:0;0:0"BõÀExecutorState::ProcessHø¬¸Šº P€ËdZ
+iter_num0Z
+id-1"«õÀ5_send_StatefulPartitionedCall/Reshape_1/shape_0:_SendHàŒïŠº Pˆ¯'Za
+keyZ/device:CPU:0;71c9bd9a3952a114;/device:CPU:0;StatefulPartitionedCall/Reshape_1/shape:0;0:0"CõÀExecutorState::ProcessH˜®¿‹º P°úÌZ
+id-1Z
+iter_num0"ÀõÀ?_send_StatefulPartitionedCall/self_weight/Reshape/shape_0:_SendHøİø‹º P õŠZk
+keyd/device:CPU:0;71c9bd9a3952a114;/device:CPU:0;StatefulPartitionedCall/self_weight/Reshape/shape:0;0:0"BõÀExecutorState::ProcessHĞÑµº PøfZ
+iter_num0Z
+id-1"ÓõÀI_send_StatefulPartitionedCall/batch_normalization/batchnorm/add/y_0:_SendH˜¡çº P€ó-Zu
+keyn/device:CPU:0;71c9bd9a3952a114;/device:CPU:0;StatefulPartitionedCall/batch_normalization/batchnorm/add/y:0;0:0"BõÀExecutorState::ProcessH¨Èñº Pğ…aZ
+id-1Z
+iter_num0"¡õÀ0_send_StatefulPartitionedCall/zeros_like_0:_SendH˜Û¤º Pàè&Z\
+keyU/device:CPU:0;71c9bd9a3952a114;/device:CPU:0;StatefulPartitionedCall/zeros_like:0;0:0"­õÀ6_send_StatefulPartitionedCall/GreaterEqual_1/y_0:_SendHĞÌ„º P¸·Zb
+key[/device:CPU:0;71c9bd9a3952a114;/device:CPU:0;StatefulPartitionedCall/GreaterEqual_1/y:0;0:0"1õÀExecutorDoneCallbackHø£¦‘º P€Ş4Z
+id-1";õÀFunctionRunHØó£‹Ô PËİZ
+id-4431505356825007365"*õÀTFE_DeleteTensorHandleHÈÎİ¸•!PøÏü")õÀTFE_DeleteTensorHandleHÈÎÔ»•!PøÙR" õÀtf.constantHÀ¦¹¥!P°ôš¹")õÀTFE_DeleteTensorHandleHÈ‚åì¦!P€¤q"-õÀTFE_Py_FastPathExecute_CHÈ™˜‘§!Pğëªï"GõÀEagerExecuteH°áö°§!P°Š¸"Z
+is_func0Z
+eager_op_EagerConst"2õÀEagerLocalExecute: _EagerConstHÈàÄ²§!P¨†Ü "%õÀEagerCopyToDeviceH˜÷¸§!Pàë"0õÀValidateInputTypeAndPlacementHÀ©ÆÁ§!P?"&õÀEagerKernelExecuteHØµæÂ§!P°ƒ",õÀKernelAndDeviceFunc::RunHà’ÒÃ§!PØŸ±")õÀTFE_DeleteTensorHandleHèÕæÕ§!P€ó-")õÀTFE_DeleteTensorHandleHàÅ‚Ø§!P –")õÀTFE_DeleteTensorHandleH¸òÙ§!PøÏ"GõÀEagerExecuteHĞÔÚÚ§!Pèãã¡Z
+is_func0Z
+eager_op
+LogicalAnd"2õÀEagerLocalExecute: LogicalAndHø„ŒÛ§!Pà”¡"%õÀEagerCopyToDeviceH°’ªà§!PˆÊ›"0õÀValidateInputTypeAndPlacementHøêÖ¨¬!Pˆü7"'õÀEagerKernelExecuteH€¾ï©¬!PÈëğÑ"-õÀKernelAndDeviceFunc::RunH¨ÒÓª¬!P²ØÁ"%õÀconvert_to_tensorH˜ºí¼¯!PĞÒ®"-õÀTFE_Py_FastPathExecute_CH¡ôÆ¯!Pğıë"EõÀEagerExecuteHğƒíÖ¯!PØ™ÈûZ
+is_func0Z
+eager_opIdentity"0õÀEagerLocalExecute: IdentityHˆÔ Ø¯!P¸ğúù"%õÀEagerCopyToDeviceHğ¹ÃŞ¯!Pàñ "0õÀValidateInputTypeAndPlacementHè¹ÒŸ³!PĞö1"&õÀEagerKernelExecuteHÈ£Ì ³!P˜Ç£1",õÀKernelAndDeviceFunc::RunH¨É²¡³!PØÀ%",õÀTFE_Py_FastPathExecute_CH€Âİß³!PğÅû"%õÀconvert_to_tensorH˜Šò‡´!Púë"%õÀconvert_to_tensorHĞ›»š´!P€Ñ‚ "õÀtf.constantH˜Ô¬¤´!PˆÖç")õÀTFE_DeleteTensorHandleHø—ß²´!Pˆç>"%õÀconvert_to_tensorHØ±¿´!P€‰»"õÀtf.constantHˆÖÒÆ´!Pø³š	")õÀTFE_DeleteTensorHandleHÀç¼Î´!P°¨"%õÀconvert_to_tensorH¨ÄÜÖ´!PÈÎC"õÀtf.constantH˜ğ»‹µ!P ß£	")õÀTFE_DeleteTensorHandleHàÃª“µ!Pøş"-õÀTFE_Py_ExecuteCancelableH¸åŸµ!Pğâİè"IõÀEagerExecuteHĞğÈ¥µ!P¨‘˜áZ
+is_func0Z
+eager_opWriteSummary"4õÀEagerLocalExecute: WriteSummaryH˜úº¦µ!P ©†à"%õÀEagerCopyToDeviceH¨äÿ¨µ!P ª"0õÀValidateInputTypeAndPlacementHè¶á²¹!Pğî>"&õÀEagerKernelExecuteHà€ã³¹!Pøã©R",õÀKernelAndDeviceFunc::RunH¨¨Ë´¹!Pø÷…@")õÀTFE_DeleteTensorHandleHˆ–’‹º!PÀßr")õÀTFE_DeleteTensorHandleH€ÉîŒº!PˆÓ")õÀTFE_DeleteTensorHandleHè¥¦º!Pğ¥"õÀtf.constantHè¨›º!P¨£²")õÀTFE_DeleteTensorHandleHğĞ§¨º!PˆÓ")õÀTFE_DeleteTensorHandleH¨÷„²º!P»0")õÀTFE_DeleteTensorHandleH¸÷›³º!Pà®c")õÀTFE_DeleteTensorHandleHĞİ÷Àº!P¸©w")õÀTFE_DeleteTensorHandleHøé±Âº!Pèû"Uõ”SExecutorState::ProcessHĞË”Ô PğÁkZ
+id-4431505356825007365Z
+iter_num0"Uõ”SExecutorState::ProcessH˜Öô“Õ P ÛŠsZ
+iter_num0Z
+id-4431505356825007365"kõ”SReadVariableOpH¸ÛĞ”Õ PÀ¢×qZG
+	long_name:batch_normalization_3/Cast_2/ReadVariableOp:ReadVariableOp"Uõ”SExecutorState::ProcessH˜í‡Ö P°Ú­Z
+iter_num0Z
+id-4431505356825007365"jõ”SReadVariableOpHˆãÄˆÖ P€¨FZG
+	long_name:batch_normalization_3/Cast_3/ReadVariableOp:ReadVariableOp"Võ”SExecutorState::ProcessHà™Â‰Ö PÈ–ËŒZ
+iter_num0Z
+id-4431505356825007365"Nõ”SSplitVHà£’ŠÖ PÀÖ ºZ1
+	long_name$StatefulPartitionedCall/split:SplitV"cõ”SGreaterEqualH Î…ÊÚ PğÍò“Z@
+	long_name3StatefulPartitionedCall/GreaterEqual_2:GreaterEqual"Wõ”SSelectV2HàäÜàİ P ®ê«Z8
+	long_name+StatefulPartitionedCall/SelectV2_2:SelectV2"Tõ”SCastH°é™í P€ÌZ:
+	long_name-StatefulPartitionedCall/embedding_2/Cast:Cast"tõ”SResourceGatherHø©’í PÜœZP
+	long_nameCStatefulPartitionedCall/embedding_2/embedding_lookup:ResourceGather"Võ”SExecutorState::ProcessH€ ø–í PøÔÒ´Z
+iter_num0Z
+id-4431505356825007365"cõ”SStridedSliceHà¿à—í P¨„rZA
+	long_name4StatefulPartitionedCall/strided_slice_1:StridedSlice"`õ”SBroadcastToHè¸·‹î P“†»Z>
+	long_name1StatefulPartitionedCall/BroadcastTo_1:BroadcastTo"bõ”SGreaterEqualH¸ÎËÈó P°ÃZ@
+	long_name3StatefulPartitionedCall/GreaterEqual_3:GreaterEqual"UõÄ+ExecutorState::ProcessH¸¤ƒ˜Õ Pè¿©wZ
+iter_num0Z
+id-4431505356825007365"ˆõÄ+ReadVariableOpH ìÁ˜Õ P ÈºsZd
+	long_nameWStatefulPartitionedCall/interaction_weight/dense_2/MatMul/ReadVariableOp:ReadVariableOp"VõÄ+ExecutorState::ProcessH¨çµÖ PÀç¦ÍZ
+iter_num0Z
+id-4431505356825007365"‚õÄ+ReadVariableOpHøÈë‘Ö PÀÈPZ_
+	long_nameRStatefulPartitionedCall/batch_normalization_2/Cast_1/ReadVariableOp:ReadVariableOp"iõÄ+AddV2Høı€“Ö PÈ”û]ZN
+	long_nameAStatefulPartitionedCall/batch_normalization_2/batchnorm/add:AddV2"jõÄ+RsqrtH ‰ÅòÖ P  SZP
+	long_nameCStatefulPartitionedCall/batch_normalization_2/batchnorm/Rsqrt:Rsqrt"eõÄ+MulH åÍóÖ P€–”fZL
+	long_name?StatefulPartitionedCall/batch_normalization_2/batchnorm/mul:Mul"gõÄ+MulH°¼Û× PøÎ©ZN
+	long_nameAStatefulPartitionedCall/batch_normalization_2/batchnorm/mul_2:Mul"dõÄ+SubH ÷ƒİ× PÀìDZL
+	long_name?StatefulPartitionedCall/batch_normalization_2/batchnorm/sub:Sub"UõÄ+ExecutorState::ProcessH¨õáŞ× P¸²åZ
+id-4431505356825007365Z
+iter_num0"jõÄ+ReadVariableOpH˜Õ¥ß× PèÿUZG
+	long_name:batch_normalization_3/Cast_1/ReadVariableOp:ReadVariableOp"PõÄ+AddV2Hş±à× PÀŒdZ6
+	long_name)batch_normalization_3/batchnorm/add:AddV2"RõÄ+RsqrtHğ˜ïá× PØ¸)Z8
+	long_name+batch_normalization_3/batchnorm/Rsqrt:Rsqrt"LõÄ+MulH°ØÂâ× PÀäZ4
+	long_name'batch_normalization_3/batchnorm/mul:Mul"NõÄ+MulH¸˜ã× PèÁ@Z6
+	long_name)batch_normalization_3/batchnorm/mul_2:Mul"LõÄ+SubHĞ‹ä× P°é+Z4
+	long_name'batch_normalization_3/batchnorm/sub:Sub"VõÄ+ExecutorState::ProcessH°©À¿à PàÃäîZ
+iter_num0Z
+id-4431505356825007365"wõÄ+_FusedMatMulHàÎÕÀà PÀÊÖ©ZT
+	long_nameGStatefulPartitionedCall/interaction_weight/dense_2/BiasAdd:_FusedMatMul"cõÄ+TanhH°©…ğò P€“™;ZI
+	long_name<StatefulPartitionedCall/interaction_weight/dense_2/Tanh:Tanh"VõÄ+ExecutorState::ProcessH Í–±ó Pğ¼ÄøZ
+id-4431505356825007365Z
+iter_num0"nõÄ+_FusedMatMulH¨ìæ³ó Pøµ¨ıZK
+	long_name>StatefulPartitionedCall/self_weight/dense/BiasAdd:_FusedMatMul"ZõÄ+TanhH¨‚ë¶ú PğÆÓ5Z@
+	long_name3StatefulPartitionedCall/self_weight/dense/Tanh:Tanh"rõÄ+EinsumHğô†òú PØ¶²Z
+equation(ijkl,ijl->ijk)Z9
+	long_name,StatefulPartitionedCall/einsum/Einsum:Einsum"fõÄ+MulHğË“û PÈÇõúZL
+	long_name?StatefulPartitionedCall/batch_normalization/batchnorm/mul_1:Mul"jõÄ+AddV2H°ØÜ‹ÿ PĞ¾ãµZN
+	long_nameAStatefulPartitionedCall/batch_normalization/batchnorm/add_1:AddV2"IõÄ+ReluHĞ—¿Ã!P¨¨³™Z.
+	long_name!StatefulPartitionedCall/Relu:Relu"WõÄ+SelectV2HĞ–Ş‚!PÀË¸ÏZ8
+	long_name+StatefulPartitionedCall/SelectV2_1:SelectV2"SõÄ+ConcatV2H€Ÿä°‡!P¨¬æÊZ4
+	long_name'StatefulPartitionedCall/concat:ConcatV2"rõÄ+EinsumHÀ“Ñş‰!PğÔ‘şZ;
+	long_name.StatefulPartitionedCall/einsum_2/Einsum:EinsumZ
+equation(ijk,ij->ik)"gõÄ+MulH Øÿ‹!Pàƒ‡[ZN
+	long_nameAStatefulPartitionedCall/batch_normalization_2/batchnorm/mul_1:Mul"kõÄ+AddV2HØ«¾ÜŒ!Pèûé[ZP
+	long_nameCStatefulPartitionedCall/batch_normalization_2/batchnorm/add_1:AddV2"IõÄ+ReluHØÙå¹!P€SZ0
+	long_name#StatefulPartitionedCall/Relu_2:Relu">õÄ+MatMulH¸¨èº!P¸”]Z"
+	long_namedense_3/MatMul:MatMul"OõÄ+MulH¨Õœ™!P¨¹Z6
+	long_name)batch_normalization_3/batchnorm/mul_1:Mul"RõÄ+AddV2HûŒ›!P¨µYZ8
+	long_name+batch_normalization_3/batchnorm/add_1:AddV2"/õÄ+ReluHˆ†£œ!P°„#Z
+	long_name	Relu:Relu"KõÄ+_FusedMatMulH˜Õöœ!PØÛ»Z)
+	long_namedense_4/BiasAdd:_FusedMatMul"DõÄ+ExecutorDoneCallbackH°¥ƒ«!PØ™´aZ
+id-4431505356825007365"VõŒSExecutorState::ProcessHøÍ™“Õ P°â³‰Z
+id-4431505356825007365Z
+iter_num0"„õŒSReadVariableOpHøµ”Õ P€¼Ô„Z_
+	long_nameRStatefulPartitionedCall/self_weight_1/dense_1/MatMul/ReadVariableOp:ReadVariableOp"UõŒSExecutorState::ProcessH¸œÁÖ PØŠZ
+iter_num0Z
+id-4431505356825007365"ƒõŒSReadVariableOpHˆùÖ P˜¯AZ`
+	long_nameSStatefulPartitionedCall/self_weight_1/dense_1/BiasAdd/ReadVariableOp:ReadVariableOp"TõŒSExecutorState::ProcessHø”ÿÖ P¨…iZ
+id-4431505356825007365Z
+iter_num0"ˆõŒSReadVariableOpH˜Â¤ŸÖ P¦7Ze
+	long_nameXStatefulPartitionedCall/interaction_weight/dense_2/BiasAdd/ReadVariableOp:ReadVariableOp"UõŒSExecutorState::ProcessHğ› Ö PÈ¨šZ
+id-4431505356825007365Z
+iter_num0"€õŒSReadVariableOpH ƒÃ Ö P¸×>Z]
+	long_namePStatefulPartitionedCall/batch_normalization/Cast_1/ReadVariableOp:ReadVariableOp"gõŒSAddV2Hğª¸¡Ö PøÅZL
+	long_name?StatefulPartitionedCall/batch_normalization/batchnorm/add:AddV2"iõŒSRsqrtH¨Å¢¨Ö PÈÖùZN
+	long_nameAStatefulPartitionedCall/batch_normalization/batchnorm/Rsqrt:Rsqrt"UõŒSExecutorState::ProcessHÈö­Ö P°Õ…Z
+iter_num0Z
+id-4431505356825007365"‚õŒSReadVariableOpHÈò¸­Ö P°ıNZ_
+	long_nameRStatefulPartitionedCall/batch_normalization_2/Cast_2/ReadVariableOp:ReadVariableOp"UõŒSExecutorState::ProcessHÀ•Ç®Ö P€£›Z
+id-4431505356825007365Z
+iter_num0"]õŒSReadVariableOpHàĞ‘¯Ö P¸ËBZ:
+	long_name-dense_4/BiasAdd/ReadVariableOp:ReadVariableOp"TõŒSExecutorState::ProcessHØ—”°Ö PˆÔnZ
+id-4431505356825007365Z
+iter_num0"õŒSReadVariableOpHØœ¼°Ö P€Ø6Z\
+	long_nameOStatefulPartitionedCall/self_weight/dense/BiasAdd/ReadVariableOp:ReadVariableOp"TõŒSExecutorState::ProcessH ”´±Ö Pğ‚bZ
+iter_num0Z
+id-4431505356825007365"‚õŒSReadVariableOpHˆ°×±Ö P¸ş1Z_
+	long_nameRStatefulPartitionedCall/batch_normalization_1/Cast_2/ReadVariableOp:ReadVariableOp"TõŒSExecutorState::ProcessHè´È²Ö PÈ§hZ
+id-4431505356825007365Z
+iter_num0"‚õŒSReadVariableOpHà¡ë²Ö P ë:Z_
+	long_nameRStatefulPartitionedCall/batch_normalization_2/Cast_3/ReadVariableOp:ReadVariableOp"TõŒSExecutorState::ProcessH¸ùİ³Ö PàmZ
+id-4431505356825007365Z
+iter_num0"~õŒSReadVariableOpHĞ‘ı³Ö Pø†DZ[
+	long_nameNStatefulPartitionedCall/batch_normalization/Cast/ReadVariableOp:ReadVariableOp"UõŒSExecutorState::ProcessHğ¹÷´Ö PØÖ™Z
+iter_num0Z
+id-4431505356825007365"€õŒSReadVariableOpHÅÎ¶Ö P€Û5Z]
+	long_namePStatefulPartitionedCall/batch_normalization_2/Cast/ReadVariableOp:ReadVariableOp"TõŒSExecutorState::ProcessHøäÃ·Ö Pè«qZ
+id-4431505356825007365Z
+iter_num0"\õŒSReadVariableOpHÀŞç·Ö P°§AZ9
+	long_name,dense_3/MatMul/ReadVariableOp:ReadVariableOp"TõŒSExecutorState::ProcessH¨ïá¸Ö PğÁMZ
+iter_num0Z
+id-4431505356825007365"\õŒSReadVariableOpHà¦¹Ö PÈù#Z9
+	long_name,dense_4/MatMul/ReadVariableOp:ReadVariableOp"VõŒSExecutorState::ProcessHè¶Ü¹Ö PØ³Œ£Z
+iter_num0Z
+id-4431505356825007365"€õŒSReadVariableOpHèÖû¹Ö Pø<Z]
+	long_namePStatefulPartitionedCall/batch_normalization/Cast_3/ReadVariableOp:ReadVariableOp"dõŒSMulH¨æŞºÖ P° ŠZJ
+	long_name=StatefulPartitionedCall/batch_normalization/batchnorm/mul:Mul"eõŒSMulH€º–Ú× PØĞZL
+	long_name?StatefulPartitionedCall/batch_normalization/batchnorm/mul_2:Mul"bõŒSSubH¨„æÛ× P°”qZJ
+	long_name=StatefulPartitionedCall/batch_normalization/batchnorm/sub:Sub"UõŒSExecutorState::ProcessH¸Òàİ× P‰”Z
+id-4431505356825007365Z
+iter_num0"hõŒSReadVariableOpHÈ‡“Ş× P ¬OZE
+	long_name8batch_normalization_3/Cast/ReadVariableOp:ReadVariableOp"VõŒSExecutorState::ProcessHğËçÕÚ Pˆìü–Z
+iter_num0Z
+id-4431505356825007365"aõŒSGreaterEqualH¨ç¹ÖÚ P ’øˆZ>
+	long_name1StatefulPartitionedCall/GreaterEqual:GreaterEqual"UõŒSSelectV2HĞÑòàİ Pè„óZ6
+	long_name)StatefulPartitionedCall/SelectV2:SelectV2"TõŒSCastH¸á˜Şì PˆĞZ:
+	long_name-StatefulPartitionedCall/embedding_1/Cast:Cast"tõŒSResourceGatherHÀÆœäì P ªZP
+	long_nameCStatefulPartitionedCall/embedding_1/embedding_lookup:ResourceGather"VõŒSExecutorState::ProcessHØ¹ïì PØĞ„ËZ
+iter_num0Z
+id-4431505356825007365"aõŒSStridedSliceH€Çàğì Pˆı´pZ?
+	long_name2StatefulPartitionedCall/strided_slice:StridedSlice"^õŒSBroadcastToH¸ööãí PÈ£öÎZ<
+	long_name/StatefulPartitionedCall/BroadcastTo:BroadcastTo"bõŒSGreaterEqualHğ¸“¶ó PˆàáZ@
+	long_name3StatefulPartitionedCall/GreaterEqual_1:GreaterEqual"VõˆSExecutorState::ProcessHàÑ÷‚Õ Pˆ¡£Z
+iter_num0Z
+id-4431505356825007365"€õˆSReadVariableOpH¨Â›„Õ P¨ úZ[
+	long_nameNStatefulPartitionedCall/self_weight/dense/MatMul/ReadVariableOp:ReadVariableOp"UõˆSExecutorState::ProcessHØòç¦Ö Pñ›Z
+iter_num0Z
+id-4431505356825007365"€õˆSReadVariableOpHØ ¬§Ö P ¾IZ]
+	long_namePStatefulPartitionedCall/batch_normalization_1/Cast/ReadVariableOp:ReadVariableOp"TõˆSExecutorState::ProcessH·¨Ö PĞ‰Z
+id-4431505356825007365Z
+iter_num0"€õˆSReadVariableOpHèÕÛ¨Ö P˜ˆNZ]
+	long_namePStatefulPartitionedCall/batch_normalization/Cast_2/ReadVariableOp:ReadVariableOp"UõˆSExecutorState::ProcessH°üí©Ö P¸Ã±LZ
+id-4431505356825007365Z
+iter_num0"‚õˆSReadVariableOpH°™ªÖ Pˆ‹3Z_
+	long_nameRStatefulPartitionedCall/batch_normalization_1/Cast_1/ReadVariableOp:ReadVariableOp"iõˆSAddV2H€’éªÖ P «›IZN
+	long_nameAStatefulPartitionedCall/batch_normalization_1/batchnorm/add:AddV2"jõˆSRsqrtHˆ”»õÖ PèˆSZP
+	long_nameCStatefulPartitionedCall/batch_normalization_1/batchnorm/Rsqrt:Rsqrt"UõˆSExecutorState::ProcessHÈ œ÷Ö P ÄâtZ
+id-4431505356825007365Z
+iter_num0"‚õˆSReadVariableOpH°ñ×÷Ö PíIZ_
+	long_nameRStatefulPartitionedCall/batch_normalization_1/Cast_3/ReadVariableOp:ReadVariableOp"eõˆSMulH°•ÉøÖ P¸¥ÉqZL
+	long_name?StatefulPartitionedCall/batch_normalization_1/batchnorm/mul:Mul"fõˆSMulH ‰Ôê× PØÌLZN
+	long_nameAStatefulPartitionedCall/batch_normalization_1/batchnorm/mul_2:Mul"dõˆSSubH°ãÍë× P °$ZL
+	long_name?StatefulPartitionedCall/batch_normalization_1/batchnorm/sub:Sub"VõˆSExecutorState::ProcessH€ùÍÚ Pàù†ã,Z
+id-4431505356825007365Z
+iter_num0"RõˆSCastHÀĞÙÍÚ P˜éûZ8
+	long_name+StatefulPartitionedCall/embedding/Cast:Cast"sõˆSResourceGatherH€ÉÑÚ P¿ÒZN
+	long_nameAStatefulPartitionedCall/embedding/embedding_lookup:ResourceGather"rõˆS_FusedMatMulH°œ«à P˜¿ZO
+	long_nameBStatefulPartitionedCall/self_weight_1/dense_1/BiasAdd:_FusedMatMul"^õˆSTanhH Æ‹ğò Pàó˜;ZD
+	long_name7StatefulPartitionedCall/self_weight_1/dense_1/Tanh:Tanh"uõˆSEinsumH€ÔÑ¤ô PèÉ‚ìZ;
+	long_name.StatefulPartitionedCall/einsum_1/Einsum:EinsumZ
+equation(ijkl,ijl->ijk)"hõˆSMulH¨¼ —ø P¸Ù‘ŞZN
+	long_nameAStatefulPartitionedCall/batch_normalization_1/batchnorm/mul_1:Mul"lõˆSAddV2H âÎøş P¨•ÍÇZP
+	long_nameCStatefulPartitionedCall/batch_normalization_1/batchnorm/add_1:AddV2"KõˆSReluHğ™ŸÃ!Pğ’â—Z0
+	long_name#StatefulPartitionedCall/Relu_1:Relu"WõˆSSelectV2Hğ™ÈÜ‚!Pğ»µĞZ8
+	long_name+StatefulPartitionedCall/SelectV2_3:SelectV2

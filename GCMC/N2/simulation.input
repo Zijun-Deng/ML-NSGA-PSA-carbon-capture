@@ -1,0 +1,30 @@
+SimulationType                      MonteCarlo
+NumberOfCycles                      10000
+NumberOfInitializationCycles        10000
+PrintEvery                          100
+ContinueAfterCrash                  no
+WriteBinaryRestartFileEvery         1000
+ForceField                          Local
+CutOffVDW                           12
+CutOffChargeCharge                  12
+CutOffChargeBondDipole              12
+CutOffBondDipoleBondDipole          12
+ChargeMethod                        Ewald
+EwaldPrecision                      1e-06
+RemoveAtomNumberCodeFromLabel       yes
+Framework                           0
+FrameworkName                       mof_opt_charged
+ExternalTemperature                 298.0
+ExternalPressure                    100000
+UseChargesFromCIFFile               yes
+UnitCells                           1 1 1
+Movies                              yes
+WriteMoviesEvery                    10000
+Component 0 MoleculeName                  N2
+            MolFraction                   1.0
+            MoleculeDefinition            N2
+            SwapProbability               0.5
+            TranslationProbability        0.3
+            RotationProbability           0.1
+            RandomTranslationProbability  0.1
+            CreateNumberOfMolecules       0
