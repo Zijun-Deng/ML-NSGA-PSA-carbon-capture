@@ -30,7 +30,7 @@ Requirement: RASPA
 ##	How to train train ML models
 Requirement: Jupyter Notebook, Python with packages - MOFNet (https://github.com/Sangwon91/MOF-NET)
 
-1.	"ML_training/CO2" and "ML_training/N2". Put add adsorption data into the file "cycle_tot.txt".
+1.	Go to "ML_training/CO2" and "ML_training/N2". Put add adsorption data into the file "cycle_tot.txt".
 2.	Train ML models by running the script “train_mofnet.ipynb” in Jupyter Notebook.
 3.	Copy the model files in "ML_training/CO2/cycle_tot" and "ML_training/N2/cycle_tot" to "ML_NSGA/cycle_tot" and "ML_NSGA/cycle_tot_n2", respectively.
 
