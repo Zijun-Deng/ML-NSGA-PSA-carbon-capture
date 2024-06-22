@@ -27,7 +27,7 @@ Requirement: RASPA
 2.	Compute adsorption loading using RASPA. Force field and input files are provided in the folder "GCMC".  See the link for more details: https://github.com/iRASPA/RASPA2/blob/master/Docs/raspa.pdf
 
 
-##	How to train train ML models
+##	How to train ML models
 Requirement: Jupyter Notebook, Python with packages - MOFNet (https://github.com/Sangwon91/MOF-NET)
 
 1.	Go to "ML_training/CO2" and "ML_training/N2". Put add adsorption data into the file "cycle_tot.txt".
@@ -35,7 +35,7 @@ Requirement: Jupyter Notebook, Python with packages - MOFNet (https://github.com
 3.	Copy the model files in "ML_training/CO2/cycle_tot" and "ML_training/N2/cycle_tot" to "ML_NSGA/cycle_tot" and "ML_NSGA/cycle_tot_n2", respectively.
 
 
-##	How to compute productivity-energy pareto fronts by process simulation and optimization
+##	How to compute productivity-energy pareto fronts by process modeling and optimization
 Requirement: MATLAB
 1.	obtain adsorption isotherms at various emperature and fit these data points in a DSL model.
 2.	Override the DSL parameters the row 2 of the table “PSA/sorted_material_dataframes/DRE_DDEC_material_data.csv“ with your DSL model. 
