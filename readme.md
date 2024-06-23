@@ -37,6 +37,6 @@ Requirement: Jupyter Notebook, Python with packages - MOFNet (https://github.com
 
 ##	How to compute productivity-energy pareto fronts by process modeling and optimization
 Requirement: MATLAB
-1.	Obtain adsorption isotherms at various emperature and fit these data points in a DSL model.
+1.	Obtain adsorption isotherms at various temperature and fit these data points in a DSL model.
 2.	Override the DSL parameters the row 2 of the table “PSA/sorted_material_dataframes/DRE_DDEC_material_data.csv“ with your DSL model. 
 3.	Run the script “ProcessOptValidation.m” using MATLAB
