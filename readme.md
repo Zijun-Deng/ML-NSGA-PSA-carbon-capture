@@ -1,10 +1,10 @@
 # Supplementary information for 
-### *Designing Metal-Organic Frameworks for Carbon Capture Using Multi-Scale Approaches with Machine Learning and Multi-Objective Optimization*
+### *Multi-Scale Computational Design of Metal-Organic Frameworks for Carbon Capture Using Machine Learning and Multi-Objective Optimization*
 
 *Zijun Deng, Lev Sarkisov*
 
 
-This repository contains the scripts to the article *Designing Metal-Organic Frameworks for Carbon Capture Using Multi-Scale Approaches with Machine Learning and Multi-Objective Optimization* by Zijun Deng and Lev Sarkisov. 
+This repository contains the scripts to the article *Multi-Scale Computational Design of Metal-Organic Frameworks for Carbon Capture Using Machine Learning and Multi-Objective Optimization* by Zijun Deng and Lev Sarkisov. 
 
 
 Note:
