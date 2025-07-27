@@ -9,7 +9,7 @@ function [ objectives, constraints ] = PSACycleSimulation( x, IsothermParams, ma
 % x(6) = r_p         Radius of the pellets [m]
 % x(7) = e_p         pellet porosity [-]
 
-process_variables = [x(1), x(1)*x(2)/8.314/313.15,  x(3),  x(4),  x(5), x(6),x(7)] ;
+process_variables = [x(1), x(1)*x(2)/8.314/298,  x(3),  x(4),  x(5), x(6),x(7)] ;
 
 try
     [objectives, constraints] = PSACycle(process_variables, IsothermParams, material_property,x0, type, N) ;
